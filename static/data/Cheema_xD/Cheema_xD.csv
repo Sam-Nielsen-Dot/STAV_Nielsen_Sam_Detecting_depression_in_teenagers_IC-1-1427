@@ -1,0 +1,12 @@
+model_id,96
+username,Cheema_xD
+total_posts,100
+total_positive,27
+total_negative,73
+percent_positive,0.27
+percent_negative,0.73
+average_positive_likelihood,0.35535336453516864
+average_negative_likelihood,0.6446466354648313
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

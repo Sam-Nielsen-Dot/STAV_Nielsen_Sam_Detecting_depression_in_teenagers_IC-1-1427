@@ -1,0 +1,12 @@
+model_id,96
+username,michaelreeves
+total_posts,100
+total_positive,29
+total_negative,71
+percent_positive,0.29
+percent_negative,0.71
+average_positive_likelihood,0.4740566699140583
+average_negative_likelihood,0.5259433300859415
+depressed,False
+switchpoint,0.8
+classification_switchpoint,0.96

@@ -1,0 +1,358 @@
+{
+    "model_id": 96,
+    "username": "xxmood_ig",
+    "total_posts": 57,
+    "total_positive": 48,
+    "total_negative": 9,
+    "percent_positive": 0.8421052631578947,
+    "percent_negative": 0.15789473684210525,
+    "average_positive_likelihood": 0.9784401793745886,
+    "average_negative_likelihood": 0.021559820625411223,
+    "posts": [
+        {
+            "text": "i miss you but you seem fine without me",
+            "classification": 0,
+            "positive_likelihood": 0.9531188390509562,
+            "negative_likelihood": 0.0468811609490447
+        },
+        {
+            "text": "when i ask \"you promise\" it's not because i don't trust you. it's because i've been hurt in the past.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998842748,
+            "negative_likelihood": 1.157243638007972e-10
+        },
+        {
+            "text": "in the end, promises are just words",
+            "classification": 0,
+            "positive_likelihood": 0.5985028894096244,
+            "negative_likelihood": 0.4014971105903752
+        },
+        {
+            "text": "i'd rather be told the truth than be lied to.  it hurts so much worse when i find out you were lying",
+            "classification": 1,
+            "positive_likelihood": 0.9999999645768634,
+            "negative_likelihood": 3.5423133343371624e-08
+        },
+        {
+            "text": "\"goodnight\" is so much better than \"gn\"",
+            "classification": 1,
+            "positive_likelihood": 0.9991997935157172,
+            "negative_likelihood": 0.0008002064842832769
+        },
+        {
+            "text": "i say sorry a lot. mostly because i feel like everything is my fault",
+            "classification": 1,
+            "positive_likelihood": 0.9999993888921297,
+            "negative_likelihood": 6.111078732511072e-07
+        },
+        {
+            "text": "i say i'm okay but i guess i'm a liar",
+            "classification": 1,
+            "positive_likelihood": 0.9876293082716346,
+            "negative_likelihood": 0.012370691728363765
+        },
+        {
+            "text": "i just want to be important to someone",
+            "classification": 0,
+            "positive_likelihood": 0.944225984424629,
+            "negative_likelihood": 0.05577401557537039
+        },
+        {
+            "text": "someday someone is going to stare at you the way you stare at the moon",
+            "classification": 1,
+            "positive_likelihood": 0.9837423124656035,
+            "negative_likelihood": 0.016257687534395267
+        },
+        {
+            "text": "i hate seeing you with other people",
+            "classification": 0,
+            "positive_likelihood": 0.8012242987700027,
+            "negative_likelihood": 0.19877570122999827
+        },
+        {
+            "text": "sometimes the worst place is in your own head",
+            "classification": 1,
+            "positive_likelihood": 0.9912110085710505,
+            "negative_likelihood": 0.008788991428949844
+        },
+        {
+            "text": "nothing hurts worse than late night tears.",
+            "classification": 1,
+            "positive_likelihood": 0.9996824370760159,
+            "negative_likelihood": 0.0003175629239850584
+        },
+        {
+            "text": "they say that time heals but it still hasn't gotten better",
+            "classification": 1,
+            "positive_likelihood": 0.9917052740462396,
+            "negative_likelihood": 0.008294725953759435
+        },
+        {
+            "text": "i'll never forget you. but you've already forgotten me",
+            "classification": 0,
+            "positive_likelihood": 0.9555675983195802,
+            "negative_likelihood": 0.04443240168041879
+        },
+        {
+            "text": "if you really loved me, you wouldn't have gotten over me so fast.",
+            "classification": 1,
+            "positive_likelihood": 0.9631795286639343,
+            "negative_likelihood": 0.03682047133606489
+        },
+        {
+            "text": "i just want to forget. about the pain about people who don't love me about my life.",
+            "classification": 1,
+            "positive_likelihood": 0.9999375321994495,
+            "negative_likelihood": 6.246780055249829e-05
+        },
+        {
+            "text": "it hurts seeing you get over me so fast.",
+            "classification": 0,
+            "positive_likelihood": 0.8940885739249728,
+            "negative_likelihood": 0.10591142607502796
+        },
+        {
+            "text": "Today my mom told me \u201cif your absence doesn\u2019t bother them, then your presence never mattered to them in the first place\u201c and i felt that.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.0019283708569012e-16
+        },
+        {
+            "text": "You ever put someone first and  then they put you last.",
+            "classification": 1,
+            "positive_likelihood": 0.9946058621130793,
+            "negative_likelihood": 0.005394137886921192
+        },
+        {
+            "text": "it hurts when you go through something that kills you inside but you have to act like it doesn\u2018t affect you at all.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999997698055,
+            "negative_likelihood": 2.3019075934764815e-10
+        },
+        {
+            "text": "Never ignore a person who loves and cares for you, because one day you may realize that you\u2018ve lost the moon while counting the stars.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999158988,
+            "negative_likelihood": 8.409651717960852e-11
+        },
+        {
+            "text": "my worst quality? someone can hurt me over and over yet in the end i\u2018d still be there for them if they ever needed me.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999983795462,
+            "negative_likelihood": 1.6204543500084295e-09
+        },
+        {
+            "text": "i wanna build a relationship with someone who cares about \u201cwhy\u201d i\u2019ve been quiet all day. not someone who gets mad cause i\u2019m \u201cacting different\u201d",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.8613400726586334e-20
+        },
+        {
+            "text": "The worst feeling is not getting a reply back from someone you really want to talk to.",
+            "classification": 1,
+            "positive_likelihood": 0.9999993764889499,
+            "negative_likelihood": 6.235110486202942e-07
+        },
+        {
+            "text": "they hurt you and then they act like you hurt them.",
+            "classification": 0,
+            "positive_likelihood": 0.9595764845722635,
+            "negative_likelihood": 0.04042351542773637
+        },
+        {
+            "text": "when Ali Gatie said:  \u201cSo, please don\u2019t break my heart don\u2019t tear me apart, i know how it starts, trust me i\u2019ve been broken before\u201d  i felt that",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 9.102272830416353e-18
+        },
+        {
+            "text": "It sucks because, for a minute I was happy, for a minute I was getting better, for a minute I had hope. but in a minute I lost it all again.",
+            "classification": 1,
+            "positive_likelihood": 0.9954596726776526,
+            "negative_likelihood": 0.004540327322344977
+        },
+        {
+            "text": "one of the hardest decisions you\u2019ll  ever face in life is choosing whether  to walk away or try even harder.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999951,
+            "negative_likelihood": 4.1819537144744516e-15
+        },
+        {
+            "text": "I hate that feeling when you really  don\u2018t have any emotion. You feel so empty. You\u2018re not happy, you\u2018re not sad. You\u2018re just nothing.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998868949,
+            "negative_likelihood": 1.1310718597043508e-10
+        },
+        {
+            "text": "do you ever feel the need to ask someone if they actually want you in their life because it feels like they don\u2018t really care...",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999916371,
+            "negative_likelihood": 8.36040304416274e-12
+        },
+        {
+            "text": "if someone genuinely wants to do something to help you, you won\u2019t have to keep reminding them.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999685335,
+            "negative_likelihood": 3.1465474908743846e-11
+        },
+        {
+            "text": "the biggest mistake I have made in my life is letting people stay in my life far longer than they deserved to.",
+            "classification": 1,
+            "positive_likelihood": 0.999999927792276,
+            "negative_likelihood": 7.220772467017358e-08
+        },
+        {
+            "text": "Do you ever say bye to someone and in the back of your mind you\u2018re hoping they\u2018ll fight for the conversation not to end...",
+            "classification": 1,
+            "positive_likelihood": 0.9999999989259721,
+            "negative_likelihood": 1.0740318650046e-09
+        },
+        {
+            "text": "i thought we were in love but you were just using me to recover from your broken heart",
+            "classification": 1,
+            "positive_likelihood": 0.9985428608214603,
+            "negative_likelihood": 0.0014571391785417284
+        },
+        {
+            "text": "have you ever wanted to cry but no tears come out? so you just look around while feeling your heart break into a million pieces",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999695086,
+            "negative_likelihood": 3.049112788228218e-11
+        },
+        {
+            "text": "i\u2019m currently fighting battles that i can\u2019t even speak to anyone about. but imma get through it",
+            "classification": 1,
+            "positive_likelihood": 0.9999999988848031,
+            "negative_likelihood": 1.1151969161212653e-09
+        },
+        {
+            "text": "i be the first one to check up on someone, and the last to be checked on",
+            "classification": 0,
+            "positive_likelihood": 0.8749679806836063,
+            "negative_likelihood": 0.12503201931639316
+        },
+        {
+            "text": "sometimes...it\u2019s easier to tell a stranger something very personal. it\u2019s like there\u2019s less risk, opening up to someone that knows nothing about you and won\u2019t judge you.",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 9.032769645149803e-18
+        },
+        {
+            "text": "when you burst out crying alone and realize that no one truly knows how unhappy you are because you don\u2019t want anyone to know...",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 2.556267119700016e-15
+        },
+        {
+            "text": "do you ever miss someone and want to tell them but you don\u2019t because you have a gut feeling that they don\u2019t miss you back?",
+            "classification": 1,
+            "positive_likelihood": 0.9999999994890645,
+            "negative_likelihood": 5.109350577208003e-10
+        },
+        {
+            "text": "when my feelings are hurt i shit down and stay quiet because i know if i say something i\u2019m gonna fuck someone up \ud83d\udc94\ud83d\ude2b",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999705,
+            "negative_likelihood": 2.6504548380500658e-14
+        },
+        {
+            "text": "it hurts the most when the person that made you feel so happy yesterday makes you feel so unhappy today",
+            "classification": 1,
+            "positive_likelihood": 0.999997276483701,
+            "negative_likelihood": 2.723516298599293e-06
+        },
+        {
+            "text": "i get jealous because i\u2019m afraid you\u2019re gonna love someone else more than me\ud83d\udc94",
+            "classification": 1,
+            "positive_likelihood": 0.9999999605686539,
+            "negative_likelihood": 3.9431341542035154e-08
+        },
+        {
+            "text": "getting sad again for no reason after being happy for a long time is literally one of the worst feelings ever",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998841369,
+            "negative_likelihood": 1.1586167844227715e-10
+        },
+        {
+            "text": "those teenagers who sit in their rooms and cry themselves to sleep at night were once kids with light in their eyes and hope in their heart.",
+            "classification": 1,
+            "positive_likelihood": 0.999999897946953,
+            "negative_likelihood": 1.0205304381960452e-07
+        },
+        {
+            "text": "i don\u2019t wanna look dumb again, look stupid again, cry again, all for loving someone that doesn\u2019t love me back\ud83d\udc94",
+            "classification": 1,
+            "positive_likelihood": 0.9999999941552427,
+            "negative_likelihood": 5.84475628525174e-09
+        },
+        {
+            "text": "Today i read something that said \"Someone who overthinks is also someone who overloves\" and i felt that.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999989682689,
+            "negative_likelihood": 1.0317313064454039e-09
+        },
+        {
+            "text": "Isn't it weird how you can totally feel the pain in your chest and stomach when something really hurts your feelings.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999899775,
+            "negative_likelihood": 1.0021776312061978e-11
+        },
+        {
+            "text": "Sometimes your heart needs more time to accept what your mind already knows.",
+            "classification": 1,
+            "positive_likelihood": 0.9999978451645295,
+            "negative_likelihood": 2.15483547191361e-06
+        },
+        {
+            "text": "Do you ever get in an \"i don't know\" Phase in your life. Where you literally don't have a solid answer to anything. You. Just. Don't. Know.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999754,
+            "negative_likelihood": 2.5917832368548448e-14
+        },
+        {
+            "text": "Not everybody you want deserves you. Read it again.",
+            "classification": 0,
+            "positive_likelihood": 0.8850050679036765,
+            "negative_likelihood": 0.11499493209632101
+        },
+        {
+            "text": "Music is the only Medicine when there is no cure for the noise my mind drowns in..",
+            "classification": 1,
+            "positive_likelihood": 0.9999884423938512,
+            "negative_likelihood": 1.1557606152700124e-05
+        },
+        {
+            "text": "Maybe if i fall in love with my depression, it will leave me too..",
+            "classification": 1,
+            "positive_likelihood": 0.9999654691312048,
+            "negative_likelihood": 3.453086879549093e-05
+        },
+        {
+            "text": "I hate hearing something that absolutely kill me inside and having to act like i dont care....",
+            "classification": 1,
+            "positive_likelihood": 0.999999999330678,
+            "negative_likelihood": 6.693190916442471e-10
+        },
+        {
+            "text": "I didn't know how broken i was Until everytime i laughed I just wanted to cry.",
+            "classification": 1,
+            "positive_likelihood": 0.9999888454542684,
+            "negative_likelihood": 1.115454573007336e-05
+        },
+        {
+            "text": "Hurting someone with a truth is better than making them happy with a lie.",
+            "classification": 1,
+            "positive_likelihood": 0.9999805346038305,
+            "negative_likelihood": 1.9465396168064646e-05
+        },
+        {
+            "text": "\"why are you sad?\" \"i don't know\" \"no reason?\" \"oh no there are plenty of reasons, I'm just not really sure which one it is this time\"",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999789945,
+            "negative_likelihood": 2.1005926227327693e-11
+        }
+    ],
+    "depressed": true,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "unhappykiddd",
+    "total_posts": 100,
+    "total_positive": 73,
+    "total_negative": 27,
+    "percent_positive": 0.73,
+    "percent_negative": 0.27,
+    "average_positive_likelihood": 0.8682533373500076,
+    "average_negative_likelihood": 0.1317466626499921,
+    "posts": [
+        {
+            "text": "I want to road trip and watch sunsets and get drunk on the beach",
+            "classification": 0,
+            "positive_likelihood": 0.8649178902656451,
+            "negative_likelihood": 0.13508210973435295
+        },
+        {
+            "text": "Don\u2019t forget about our original suctional vibrators too!!  https://t.co/57Pwk0ZOeD \ud83d\udc9e  https://t.co/qghgVYU88I",
+            "classification": 1,
+            "positive_likelihood": 0.9999956607758502,
+            "negative_likelihood": 4.339224146763433e-06
+        },
+        {
+            "text": "Go check this satisfying mask! Last day of their big sale!\u00a0\u00a0 https://t.co/sGzl8vUlGU  https://t.co/SgWuWZXHI3 #ad",
+            "classification": 1,
+            "positive_likelihood": 0.9992921730096317,
+            "negative_likelihood": 0.0007078269903691641
+        },
+        {
+            "text": "me having trust issues  https://t.co/drnFyxeIpG",
+            "classification": 0,
+            "positive_likelihood": 0.8079845845328676,
+            "negative_likelihood": 0.19201541546713277
+        },
+        {
+            "text": "\"what's your favorite color?\" me:  https://t.co/Ot5frLzY5q",
+            "classification": 1,
+            "positive_likelihood": 0.9968360863752238,
+            "negative_likelihood": 0.003163913624775234
+        },
+        {
+            "text": "Alcohol tastes a lil better when your life a lil fucked up.",
+            "classification": 1,
+            "positive_likelihood": 0.9852129057740207,
+            "negative_likelihood": 0.014787094225979494
+        },
+        {
+            "text": "\"i can't go out, i'm busy\" me being busy:  https://t.co/FboRn8GjL5",
+            "classification": 1,
+            "positive_likelihood": 0.999975235943544,
+            "negative_likelihood": 2.4764056454323616e-05
+        },
+        {
+            "text": "Long walks and good talks with you  https://t.co/pPXuT2EsqW",
+            "classification": 1,
+            "positive_likelihood": 0.9980350233828652,
+            "negative_likelihood": 0.001964976617134734
+        },
+        {
+            "text": "No more forcing friendships or relationships. It flows or it goes.",
+            "classification": 1,
+            "positive_likelihood": 0.9999666358748207,
+            "negative_likelihood": 3.336412517853175e-05
+        },
+        {
+            "text": "Feelings at 3am  https://t.co/o7AR4oLwaM",
+            "classification": 0,
+            "positive_likelihood": 0.33509635779751823,
+            "negative_likelihood": 0.6649036422024817
+        },
+        {
+            "text": "Upgrading my entire life this year, I owe it to myself.",
+            "classification": 1,
+            "positive_likelihood": 0.999389229177026,
+            "negative_likelihood": 0.000610770822974202
+        },
+        {
+            "text": "Manifesting this one  https://t.co/iXq1UP2y2b",
+            "classification": 0,
+            "positive_likelihood": 0.02366415428821117,
+            "negative_likelihood": 0.9763358457117888
+        },
+        {
+            "text": "If parallel universe is real, I hope my other 'me' is doing well.",
+            "classification": 1,
+            "positive_likelihood": 0.9881290836601276,
+            "negative_likelihood": 0.011870916339870504
+        },
+        {
+            "text": "Can we all agree that this is the best position for sleeping?  https://t.co/FRFHrjYXXN",
+            "classification": 0,
+            "positive_likelihood": 0.7510489895365134,
+            "negative_likelihood": 0.2489510104634884
+        },
+        {
+            "text": "Normalize saying \"you're right, my bad\" instead of holding onto your pride.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999992415,
+            "negative_likelihood": 7.566511427865056e-13
+        },
+        {
+            "text": "idk what this dog had been going through but same  https://t.co/0TW15Ubow0",
+            "classification": 0,
+            "positive_likelihood": 0.7810293899104356,
+            "negative_likelihood": 0.21897061008956545
+        },
+        {
+            "text": "We could sit in a car for 2 hours and talk about life, and that\u2019s a date right there.",
+            "classification": 1,
+            "positive_likelihood": 0.999999997129426,
+            "negative_likelihood": 2.8705723113695635e-09
+        },
+        {
+            "text": "can life slow tf down  https://t.co/H6hfIyzmVn",
+            "classification": 1,
+            "positive_likelihood": 0.9857261045288915,
+            "negative_likelihood": 0.014273895471108553
+        },
+        {
+            "text": "When your friend calls you to do nothing together  https://t.co/ljRmA2FOIU",
+            "classification": 1,
+            "positive_likelihood": 0.9811312507183565,
+            "negative_likelihood": 0.018868749281642377
+        },
+        {
+            "text": "I\u2019m such a \u201cnah I got it\u201d and suffer in silence type of person.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999987638,
+            "negative_likelihood": 1.234384097190137e-12
+        },
+        {
+            "text": "me with my mom when my phone is charging  https://t.co/o314Dwci8H",
+            "classification": 0,
+            "positive_likelihood": 0.1463990862200534,
+            "negative_likelihood": 0.8536009137799454
+        },
+        {
+            "text": "\u201cYou changed\u201d hmm maybe cuz your mistreatment made me realize my worth.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999483848,
+            "negative_likelihood": 5.160661879871418e-11
+        },
+        {
+            "text": "felt this  https://t.co/owzKuGSovI",
+            "classification": 0,
+            "positive_likelihood": 0.23563800762869175,
+            "negative_likelihood": 0.7643619923713076
+        },
+        {
+            "text": "May you receive a sign this week that puts your mind at ease and fills your heart with hope. \ud83e\udd0d\ud83d\udd4a",
+            "classification": 1,
+            "positive_likelihood": 0.9999992492510125,
+            "negative_likelihood": 7.507489873874788e-07
+        },
+        {
+            "text": "Be proud of how far you\u2019ve come  https://t.co/wUf1LUxBNh",
+            "classification": 1,
+            "positive_likelihood": 0.9996281023597233,
+            "negative_likelihood": 0.00037189764027817384
+        },
+        {
+            "text": "I hope you find someone who hates hurting your heart.",
+            "classification": 1,
+            "positive_likelihood": 0.9998823186065449,
+            "negative_likelihood": 0.00011768139345615177
+        },
+        {
+            "text": "sleep over with the best people after this pandemic  https://t.co/GEiwtP5ArS",
+            "classification": 1,
+            "positive_likelihood": 0.9989841685099569,
+            "negative_likelihood": 0.0010158314900428188
+        },
+        {
+            "text": "Be with someone who loves you harder on the days you can\u2019t love yourself at all.",
+            "classification": 1,
+            "positive_likelihood": 0.999918466844114,
+            "negative_likelihood": 8.153315588446977e-05
+        },
+        {
+            "text": "I really miss the feeling and vibes  https://t.co/hmn0Xl8Mgg",
+            "classification": 1,
+            "positive_likelihood": 0.9871303084557885,
+            "negative_likelihood": 0.012869691544212558
+        },
+        {
+            "text": "Once you lie to me I'm always gonna think you're lying about everything you say.",
+            "classification": 1,
+            "positive_likelihood": 0.9999630078927549,
+            "negative_likelihood": 3.699210724112765e-05
+        },
+        {
+            "text": "Imagine a date like this  https://t.co/GonXR3Mxma",
+            "classification": 0,
+            "positive_likelihood": 0.8145115688896803,
+            "negative_likelihood": 0.18548843111032048
+        },
+        {
+            "text": "Badly need this vibes, please  https://t.co/bjHY00pFax",
+            "classification": 1,
+            "positive_likelihood": 0.9805628798237744,
+            "negative_likelihood": 0.019437120176224957
+        },
+        {
+            "text": "me: i need to fix my sleeping schedule   me every night:  https://t.co/TqxoV2qFS6",
+            "classification": 1,
+            "positive_likelihood": 0.9985674163844871,
+            "negative_likelihood": 0.0014325836155118109
+        },
+        {
+            "text": "\"How was the online class? What did you get from it?\"  Me:  https://t.co/IyYXJ1vOtO",
+            "classification": 1,
+            "positive_likelihood": 0.9998869375413932,
+            "negative_likelihood": 0.00011306245860517755
+        },
+        {
+            "text": "I pray to be released from soul ties &amp; the repetition of learning the same lessons.",
+            "classification": 1,
+            "positive_likelihood": 0.9990729084923214,
+            "negative_likelihood": 0.0009270915076797669
+        },
+        {
+            "text": "no one:   little kids staring at you in a restaurant:  https://t.co/VR1LIT9DyY",
+            "classification": 0,
+            "positive_likelihood": 0.8028855824957459,
+            "negative_likelihood": 0.19711441750425412
+        },
+        {
+            "text": "Dating someone who can stay kind even during fights is very important.",
+            "classification": 1,
+            "positive_likelihood": 0.9999996340885229,
+            "negative_likelihood": 3.659114784624982e-07
+        },
+        {
+            "text": "Allow yourself to heal  https://t.co/g4tl64GoIF",
+            "classification": 0,
+            "positive_likelihood": 0.6489166129175191,
+            "negative_likelihood": 0.35108338708248216
+        },
+        {
+            "text": "Fall in love with someone who will never let you go to sleep feeling sad.",
+            "classification": 1,
+            "positive_likelihood": 0.9999996334011013,
+            "negative_likelihood": 3.665988995270512e-07
+        },
+        {
+            "text": "I hate feeling this way  https://t.co/6mtYLbZEHX",
+            "classification": 0,
+            "positive_likelihood": 0.9450942025359415,
+            "negative_likelihood": 0.054905797464058013
+        },
+        {
+            "text": "Leaving your house &amp; returning back safely is such an underrated blessing.",
+            "classification": 1,
+            "positive_likelihood": 0.984371509513916,
+            "negative_likelihood": 0.015628490486084105
+        },
+        {
+            "text": "The first rule  https://t.co/LGZD0ms93e",
+            "classification": 0,
+            "positive_likelihood": 0.06368800275941675,
+            "negative_likelihood": 0.9363119972405837
+        },
+        {
+            "text": "God please heal the part of me that i can't discuss",
+            "classification": 1,
+            "positive_likelihood": 0.999820595082906,
+            "negative_likelihood": 0.0001794049170913879
+        },
+        {
+            "text": "Me every night:  https://t.co/sSu3t1pdUG",
+            "classification": 0,
+            "positive_likelihood": 0.15903685213306057,
+            "negative_likelihood": 0.8409631478669399
+        },
+        {
+            "text": "You don\u2019t know pain until you sit down and beg God to heal your heart.",
+            "classification": 1,
+            "positive_likelihood": 0.999999996322531,
+            "negative_likelihood": 3.6774688342969304e-09
+        },
+        {
+            "text": "I wish the best for myself after all  https://t.co/1KW7ReUUmA",
+            "classification": 0,
+            "positive_likelihood": 0.10424139981990307,
+            "negative_likelihood": 0.8957586001800959
+        },
+        {
+            "text": "Your trauma was never your fault, but healing will always be your responsibility.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999843822989,
+            "negative_likelihood": 1.561769893551482e-08
+        },
+        {
+            "text": "I am not the same person I was 10 minutes ago.  https://t.co/qVc7IuB4df",
+            "classification": 1,
+            "positive_likelihood": 0.9757170934079032,
+            "negative_likelihood": 0.024282906592094065
+        },
+        {
+            "text": "Even if we fall out, yo business still safe with me.",
+            "classification": 1,
+            "positive_likelihood": 0.9920908133167281,
+            "negative_likelihood": 0.007909186683269075
+        },
+        {
+            "text": "Me at 3am thinking what's wrong with me.  https://t.co/VkBxhZaQcF",
+            "classification": 0,
+            "positive_likelihood": 0.7047578641660933,
+            "negative_likelihood": 0.2952421358339076
+        },
+        {
+            "text": "I\u2019m not the friend you hear from everyday but the friend you can call on any day.",
+            "classification": 1,
+            "positive_likelihood": 0.9999899181833114,
+            "negative_likelihood": 1.0081816689284488e-05
+        },
+        {
+            "text": "Take time to heal  https://t.co/qqFxsAOA6S",
+            "classification": 0,
+            "positive_likelihood": 0.8299371720524391,
+            "negative_likelihood": 0.17006282794756045
+        },
+        {
+            "text": "You deserve the love you don\u2019t have to question or worry about.",
+            "classification": 1,
+            "positive_likelihood": 0.9999069020722561,
+            "negative_likelihood": 9.309792774361841e-05
+        },
+        {
+            "text": "Never again  https://t.co/UQpuP5va3M",
+            "classification": 0,
+            "positive_likelihood": 0.10947008641966076,
+            "negative_likelihood": 0.890529913580339
+        },
+        {
+            "text": "I\u2019m at a stage in my life where I just want to be very quiet.",
+            "classification": 1,
+            "positive_likelihood": 0.9999915453559094,
+            "negative_likelihood": 8.454644089147274e-06
+        },
+        {
+            "text": "I hope you find that kind of love  https://t.co/GiGpMqTucA",
+            "classification": 0,
+            "positive_likelihood": 0.649821409975402,
+            "negative_likelihood": 0.35017859002459906
+        },
+        {
+            "text": "I\u2019m serious about my peace and space. Don\u2019t bring bullshit or confusion around me.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999969023196,
+            "negative_likelihood": 3.0976807773904525e-09
+        },
+        {
+            "text": "I wanna sit on a rooftop with someone at 3am just looking at the stars and talk about life.  https://t.co/WOrgGAEo3x",
+            "classification": 1,
+            "positive_likelihood": 0.9999955293326831,
+            "negative_likelihood": 4.470667312788706e-06
+        },
+        {
+            "text": "Old messages really hit you when you know that the bond is never coming back.",
+            "classification": 1,
+            "positive_likelihood": 0.9999922034852364,
+            "negative_likelihood": 7.796514763463256e-06
+        },
+        {
+            "text": "Lowkey wanna visit New York  https://t.co/QVeynsHMj7",
+            "classification": 1,
+            "positive_likelihood": 0.980356048950223,
+            "negative_likelihood": 0.019643951049778063
+        },
+        {
+            "text": "I really wish the best for myself this year. I deserve it.",
+            "classification": 1,
+            "positive_likelihood": 0.9947684350474388,
+            "negative_likelihood": 0.005231564952560928
+        },
+        {
+            "text": "Every iphone user can relate.  https://t.co/7v9VVy5BPD",
+            "classification": 0,
+            "positive_likelihood": 0.4093868918831061,
+            "negative_likelihood": 0.5906131081168957
+        },
+        {
+            "text": "I\u2019m actually tired bro, like from the bottom of my heart. I am tired.",
+            "classification": 1,
+            "positive_likelihood": 0.9999997719594729,
+            "negative_likelihood": 2.2804052840281597e-07
+        },
+        {
+            "text": "Me and my mom having a small talk before asking permission to go out.  https://t.co/WotTX9eZKf",
+            "classification": 1,
+            "positive_likelihood": 0.9988836001245351,
+            "negative_likelihood": 0.0011163998754629076
+        },
+        {
+            "text": "To the person reading this, I hope tonight treats you gently, and that tomorrow looks brighter.",
+            "classification": 1,
+            "positive_likelihood": 0.9996323034939812,
+            "negative_likelihood": 0.00036769650602233535
+        },
+        {
+            "text": "I will be fine  https://t.co/6yMQl4REat",
+            "classification": 0,
+            "positive_likelihood": 0.025404188427288258,
+            "negative_likelihood": 0.9745958115727111
+        },
+        {
+            "text": "I pray I never get attached to somebody who ain\u2019t for me again.",
+            "classification": 1,
+            "positive_likelihood": 0.9999988139167891,
+            "negative_likelihood": 1.186083209473004e-06
+        },
+        {
+            "text": "I love deep conversations, like serious shit, heart to heart, just vibing on a real level.  https://t.co/gVD8NIolad",
+            "classification": 1,
+            "positive_likelihood": 0.9999999986822088,
+            "negative_likelihood": 1.3177944891126873e-09
+        },
+        {
+            "text": "I can't lose my mom, she's my everything.",
+            "classification": 1,
+            "positive_likelihood": 0.9987434937825503,
+            "negative_likelihood": 0.0012565062174495299
+        },
+        {
+            "text": "I would like to go to the seaside and just sit quietly.  https://t.co/H6nx8MpUUi",
+            "classification": 1,
+            "positive_likelihood": 0.9912801787471496,
+            "negative_likelihood": 0.008719821252851584
+        },
+        {
+            "text": "Lack of communication leaves too much room for the imagination.",
+            "classification": 1,
+            "positive_likelihood": 0.9999786391117357,
+            "negative_likelihood": 2.1360888263895684e-05
+        },
+        {
+            "text": "Feeling safe around someones energy is a different kind of intimacy.  https://t.co/w9uQRV9II5",
+            "classification": 1,
+            "positive_likelihood": 0.9999999801558775,
+            "negative_likelihood": 1.984412255635025e-08
+        },
+        {
+            "text": "Don\u2019t lose a someone that has seen your flaws and still love you.",
+            "classification": 1,
+            "positive_likelihood": 0.9999998845467777,
+            "negative_likelihood": 1.1545322502578849e-07
+        },
+        {
+            "text": "Someone who will the reason behind your smiles.  https://t.co/DuklDOJwjP",
+            "classification": 1,
+            "positive_likelihood": 0.9908439358097597,
+            "negative_likelihood": 0.009156064190240655
+        },
+        {
+            "text": "Surround yourself only with people who are good for your mental health.",
+            "classification": 1,
+            "positive_likelihood": 0.9999962242215976,
+            "negative_likelihood": 3.7757784007825372e-06
+        },
+        {
+            "text": "I just wanna sit in front of the ocean with someone I love.  https://t.co/DttkHxXY1Z",
+            "classification": 1,
+            "positive_likelihood": 0.996759084928135,
+            "negative_likelihood": 0.003240915071863034
+        },
+        {
+            "text": "I\u2019m tired of saying I\u2019m okay because I\u2019m not fucking okay.",
+            "classification": 1,
+            "positive_likelihood": 0.9999908094212894,
+            "negative_likelihood": 9.19057871123242e-06
+        },
+        {
+            "text": "I\u2019m always in the mood for long car rides with good music.  https://t.co/qPKRMLf3Xu",
+            "classification": 1,
+            "positive_likelihood": 0.9999905020191329,
+            "negative_likelihood": 9.497980866504459e-06
+        },
+        {
+            "text": "Shoutout to myself because after everything I\u2019ve been through, I still have a good heart.",
+            "classification": 1,
+            "positive_likelihood": 0.9999352708017114,
+            "negative_likelihood": 6.472919829101411e-05
+        },
+        {
+            "text": "Movie date ft. favourite person  https://t.co/hupCEeKiwF",
+            "classification": 0,
+            "positive_likelihood": 0.6977894439596618,
+            "negative_likelihood": 0.3022105560403391
+        },
+        {
+            "text": "Better to lose people not meant for you than to exhaust yourself trying to impress, love, help, and grow with people who never will be.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999996268099,
+            "negative_likelihood": 3.7318849471718395e-10
+        },
+        {
+            "text": "As we grow up, its better to keep everything private and silent  https://t.co/sdjBClDQYJ",
+            "classification": 1,
+            "positive_likelihood": 0.9998853067426502,
+            "negative_likelihood": 0.00011469325735231862
+        },
+        {
+            "text": "Learn to be done. not mad, not bothered, just done. protect your peace at all costs.",
+            "classification": 1,
+            "positive_likelihood": 0.9999365610095874,
+            "negative_likelihood": 6.343899041196483e-05
+        },
+        {
+            "text": "I don\u2019t need a perfect relationship, I just need someone who won\u2019t give up on me.  https://t.co/l6oYvclOht",
+            "classification": 1,
+            "positive_likelihood": 0.9999999299899964,
+            "negative_likelihood": 7.001000243490834e-08
+        },
+        {
+            "text": "Growth is admitting I too possess toxic qualities &amp; carry unhealed traumas I need to work on.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999129044,
+            "negative_likelihood": 8.709459407555258e-11
+        },
+        {
+            "text": "Please Lord, don't put me in this situation ever again.  https://t.co/E9pxsEJmm5",
+            "classification": 1,
+            "positive_likelihood": 0.9976411284280851,
+            "negative_likelihood": 0.0023588715719143026
+        },
+        {
+            "text": "Forgiving people in silence and never speaking to them again is a form of self care.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999914750635,
+            "negative_likelihood": 8.524935955022553e-09
+        },
+        {
+            "text": "Self love is more important than anything right now.  https://t.co/Nxjc198wja",
+            "classification": 1,
+            "positive_likelihood": 0.9988476908940935,
+            "negative_likelihood": 0.0011523091059076466
+        },
+        {
+            "text": "I deserve to be loved. not liked, not lusted after, not settled for, but loved.",
+            "classification": 0,
+            "positive_likelihood": 0.9149947686386526,
+            "negative_likelihood": 0.08500523136134937
+        },
+        {
+            "text": "Lowkey wanna sit here and talk about life  https://t.co/kYvhTs0vE5",
+            "classification": 1,
+            "positive_likelihood": 0.9999686502915113,
+            "negative_likelihood": 3.134970848619431e-05
+        },
+        {
+            "text": "Distance is my new response. I don\u2019t return energy. I remove myself.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999292836869,
+            "negative_likelihood": 7.071631082811716e-08
+        },
+        {
+            "text": "Do it because it makes you happy.  https://t.co/4VnfbJ1z5B",
+            "classification": 0,
+            "positive_likelihood": 0.0792580509347081,
+            "negative_likelihood": 0.9207419490652925
+        },
+        {
+            "text": "Idc who I lose anymore, as long as I don\u2019t lose myself again, I\u2019m good.",
+            "classification": 1,
+            "positive_likelihood": 0.9999998697940649,
+            "negative_likelihood": 1.3020593683942948e-07
+        },
+        {
+            "text": "I am proud for how far you've come  https://t.co/8SdHuSc0ks",
+            "classification": 0,
+            "positive_likelihood": 0.8842282290380464,
+            "negative_likelihood": 0.11577177096195282
+        },
+        {
+            "text": "You deserve a relationship that allows you to sleep peacefully at night.",
+            "classification": 1,
+            "positive_likelihood": 0.9997220271110521,
+            "negative_likelihood": 0.0002779728889445818
+        },
+        {
+            "text": "star gazing ft. your favourite person  https://t.co/z63SaB0UNB",
+            "classification": 0,
+            "positive_likelihood": 0.8552337278121431,
+            "negative_likelihood": 0.1447662721878589
+        },
+        {
+            "text": "Friendships don\u2019t require communicating everyday, if you need me you know i got you.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999692231747,
+            "negative_likelihood": 3.077682439602222e-08
+        },
+        {
+            "text": "Let them and don\u2019t force things  https://t.co/H9pNlNj8bz",
+            "classification": 1,
+            "positive_likelihood": 0.9999491851327376,
+            "negative_likelihood": 5.0814867261721454e-05
+        },
+        {
+            "text": "I want you to remember this \u2014 if we no longer talk, i'm still wishing you the best.",
+            "classification": 1,
+            "positive_likelihood": 0.9999993317433332,
+            "negative_likelihood": 6.682566658571734e-07
+        },
+        {
+            "text": "Keep in mind:  https://t.co/4xb6tbaMPl",
+            "classification": 0,
+            "positive_likelihood": 0.3846321682775635,
+            "negative_likelihood": 0.6153678317224354
+        }
+    ],
+    "depressed": true,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

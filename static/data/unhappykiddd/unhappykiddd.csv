@@ -1,0 +1,12 @@
+model_id,96
+username,unhappykiddd
+total_posts,100
+total_positive,73
+total_negative,27
+percent_positive,0.73
+percent_negative,0.27
+average_positive_likelihood,0.8682533373500076
+average_negative_likelihood,0.1317466626499921
+depressed,True
+switchpoint,0.8
+classification_switchpoint,0.96

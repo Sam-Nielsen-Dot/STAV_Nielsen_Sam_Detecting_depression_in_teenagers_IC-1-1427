@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detecting depression in teenagers using modern sentiment analysis and NLP on social media output</title>
+
+    <!--Bootstrap stylesheets-->
+    
+    <meta charset="UTF-8">
+    <!--https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.ctfassets.net%2F81iqaqpfd8fy%2F3r4flvP8Z26WmkMwAEWEco%2F870554ed7577541c5f3bc04942a47b95%2F78745131.jpg%3Fw%3D1200%26h%3D1200%26fm%3Djpg%26fit%3Dfill&imgrefurl=https%3A%2F%2Fwww.dosomething.org%2Ffacts%2F11-facts-about-giraffes&tbnid=4kqYgIxOoNVXUM&vet=12ahUKEwiAn5iGkrLxAhUpMrcAHSjBCnIQMygAegUIARCUAg..i&docid=biS9AKXCm9fsMM&w=1200&h=1200&q=giraffe%20picture&safe=strict&ved=2ahUKEwiAn5iGkrLxAhUpMrcAHSjBCnIQMygAegUIARCUAg-->
+    <link rel="icon" href="{{url_for('static', filename='icon.ico')}}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='main.css') }}">
+    
+    {% block head %}{% endblock %}
+</head>
+<body>
+<div class="title">
+    <h1>Depression Analysis in twitter users</h1>
+</div>
+<div class="container" style="padding-top: 1%; padding-bottom: 5%;">
+<div class="card">
+    
+        {% block header %}
+        
+        {% endblock %}
+    
+    <div class="card-body">
+        {% block content %}
+        
+        {% endblock %}
+    </div>
+</div>  
+</div>
+
+{%block bottom%}
+
+{%endblock%}
+
+{% block end %}
+        
+        {% endblock %}
+</body>
+</html>

@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "hello",
+    "total_posts": 100,
+    "total_positive": 80,
+    "total_negative": 20,
+    "percent_positive": 0.8,
+    "percent_negative": 0.2,
+    "average_positive_likelihood": 0.8931691701606483,
+    "average_negative_likelihood": 0.10683082983935088,
+    "posts": [
+        {
+            "text": "Goodbye, Hello.  https://t.co/dIBmnqTG00",
+            "classification": 0,
+            "positive_likelihood": 0.0418678627428289,
+            "negative_likelihood": 0.9581321372571704
+        },
+        {
+            "text": "@ItsKingJono Please can you DM us your email address and order number.",
+            "classification": 0,
+            "positive_likelihood": 0.6580822433615702,
+            "negative_likelihood": 0.3419177566384304
+        },
+        {
+            "text": "Looking forward to a day off for #MemorialDay? You might want to think twice about sleeping in.  https://t.co/qE5qgErzhQ",
+            "classification": 1,
+            "positive_likelihood": 0.9935622205188409,
+            "negative_likelihood": 0.00643777948115624
+        },
+        {
+            "text": "Nearly 1 in 10 people have a condition called sleep bruxism. Here's what causes it and how you can prevent it.  https://t.co/yrD3r9HHCC",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999829198,
+            "negative_likelihood": 1.708171575249172e-11
+        },
+        {
+            "text": "REM sleep helps our brains learn and develop better, so it makes sense that infants get twice as much of it as adults. #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999998621,
+            "negative_likelihood": 1.3698465333691775e-13
+        },
+        {
+            "text": "Nighttime noise around us isn't so great for our sleep. Here's how to beat the noise and stay sleeping soundly.  https://t.co/Qyy5drdArZ",
+            "classification": 1,
+            "positive_likelihood": 0.999998893300616,
+            "negative_likelihood": 1.106699383781437e-06
+        },
+        {
+            "text": "Don't miss those important cues. Sleep deprivation impairs your ability to read emotions like happiness and sadness. #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999901,
+            "negative_likelihood": 3.4207442439024642e-15
+        },
+        {
+            "text": "Here\u2019s some food for thought the next time you get an urge to take a nap under your desk in the middle of the day.  https://t.co/aF9oy624yq",
+            "classification": 1,
+            "positive_likelihood": 0.9999999987758942,
+            "negative_likelihood": 1.224104389184384e-09
+        },
+        {
+            "text": "@sjorsverbakel And check out this post on our blog about Sense with Voice and its features as well:  https://t.co/vj4uFl67vw",
+            "classification": 0,
+            "positive_likelihood": 0.4516378990560867,
+            "negative_likelihood": 0.5483621009439122
+        },
+        {
+            "text": "@JustinOrgel Glad to help. And that's a great idea \u2014 we're always thinking about new ways to help you get better sleep.",
+            "classification": 1,
+            "positive_likelihood": 0.9999989263731163,
+            "negative_likelihood": 1.073626885415122e-06
+        },
+        {
+            "text": "@TinaWinkThinks We're excited for you to experience Sense, too. Cheers to better sleep, Tina.",
+            "classification": 1,
+            "positive_likelihood": 0.9808296353539538,
+            "negative_likelihood": 0.019170364646048127
+        },
+        {
+            "text": "Do you know what position you sleep in? Here\u2019s what that could mean for your sleep quality and health.  https://t.co/AJq8aTDlBv",
+            "classification": 1,
+            "positive_likelihood": 0.9999999952147514,
+            "negative_likelihood": 4.785246237083353e-09
+        },
+        {
+            "text": "Skipping sleep can be a painful decision in more ways than one. Here\u2019s why.  https://t.co/1g3yw5XUAs",
+            "classification": 1,
+            "positive_likelihood": 0.9999998994249626,
+            "negative_likelihood": 1.0057503515339037e-07
+        },
+        {
+            "text": "Deep sleep helps with learning by strengthening the connections between brain cells, helping you retain new information. #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.999999999757537,
+            "negative_likelihood": 2.4246166741655344e-10
+        },
+        {
+            "text": "@JadePraerie Hi Jade. We don't own that, nor do we use any other handle for #stopDST.",
+            "classification": 0,
+            "positive_likelihood": 0.8899724499407021,
+            "negative_likelihood": 0.1100275500592977
+        },
+        {
+            "text": "@Anakha56 Yep. Check it out tonight and let us know what you think.",
+            "classification": 0,
+            "positive_likelihood": 0.40411311819598406,
+            "negative_likelihood": 0.5958868818040177
+        },
+        {
+            "text": "Starting tonight, Android users can give their eyes a break with Night Mode too.",
+            "classification": 1,
+            "positive_likelihood": 0.9911205166391748,
+            "negative_likelihood": 0.008879483360829136
+        },
+        {
+            "text": "You can definitely have too much of a good thing: Oversleeping can confuse your internal clock, making you even more tired. #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.9999998669909702,
+            "negative_likelihood": 1.330090303105095e-07
+        },
+        {
+            "text": "@AditiJuneja3 @ReignOfApril We're so happy to hear that. Cheers to sleeping better, Aditi.",
+            "classification": 0,
+            "positive_likelihood": 0.9484409680356377,
+            "negative_likelihood": 0.05155903196436371
+        },
+        {
+            "text": "Thanks to @DrNatalieTV for featuring Sense as a solution for sleep-deprived new parents on this morning\u2019s @TODAYshow.  https://t.co/pQgbztiOyD",
+            "classification": 1,
+            "positive_likelihood": 0.9999999727304811,
+            "negative_likelihood": 2.7269523376587413e-08
+        },
+        {
+            "text": "Have a hard time unplugging from work after you get home? Here\u2019s how it could be impacting your sleep.  https://t.co/PYZQJoLweF",
+            "classification": 1,
+            "positive_likelihood": 0.9999999984010591,
+            "negative_likelihood": 1.5989380583921926e-09
+        },
+        {
+            "text": "Well, we're boycotting House of Cards then.  https://t.co/zbG0B3Ia04",
+            "classification": 0,
+            "positive_likelihood": 0.7782166223118696,
+            "negative_likelihood": 0.22178337768812814
+        },
+        {
+            "text": "Running the #BostonMarathon? Think sleep. Getting 8 hours instead of 6 can increase your workout endurance by up to 30%. #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.999997366845642,
+            "negative_likelihood": 2.633154353301346e-06
+        },
+        {
+            "text": "Performing your best in an event like the #BostonMarathon means knowing how important sleep is to athletic training.  https://t.co/e2GL8zdgTf",
+            "classification": 1,
+            "positive_likelihood": 0.9999998539664824,
+            "negative_likelihood": 1.460335163902732e-07
+        },
+        {
+            "text": "Night Mode is available on iOS today and will be coming to Android next week.",
+            "classification": 0,
+            "positive_likelihood": 0.9479757559353894,
+            "negative_likelihood": 0.05202424406460993
+        },
+        {
+            "text": "Whether setting an alarm before bed or checking your Sleep Score in the morning, Sense\u2019s new Night Mode helps you go easy on your eyes.  https://t.co/KJL03tcbe6",
+            "classification": 1,
+            "positive_likelihood": 0.9999999998490061,
+            "negative_likelihood": 1.5099460913007896e-10
+        },
+        {
+            "text": "Our chief scientist @sleepdiplomat spoke to @MensFitness about his latest sleep study at UC Berkeley:  https://t.co/H7kyFKniam",
+            "classification": 1,
+            "positive_likelihood": 0.999589545472568,
+            "negative_likelihood": 0.00041045452743175093
+        },
+        {
+            "text": "What\u2019s somnambulism? You might know it by another more common name: sleepwalking. #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.9999994513222418,
+            "negative_likelihood": 5.486777546849888e-07
+        },
+        {
+            "text": "Practice makes perfect, but sleep is just as essential for performing at the top of your game. Find out how.  https://t.co/e2GL8zdgTf",
+            "classification": 1,
+            "positive_likelihood": 0.9997911332788211,
+            "negative_likelihood": 0.0002088667211749415
+        },
+        {
+            "text": "We\u2019re trying to change the conversation around sleep, because it\u2019s too important not to.  https://t.co/qOOIuiss0t",
+            "classification": 1,
+            "positive_likelihood": 0.9999999778659244,
+            "negative_likelihood": 2.213407404646859e-08
+        },
+        {
+            "text": "Sleep plays an important role in not just your physical health, but your mental well-being, too. #WorldHealthDay  https://t.co/gx0scYi4Tw",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999939865,
+            "negative_likelihood": 6.012157657612262e-12
+        },
+        {
+            "text": "You probably know that yawns are contagious. But did you know that you can\u2019t yawn at will, or stop one from happening? #sleepfacts",
+            "classification": 1,
+            "positive_likelihood": 0.9999996366779708,
+            "negative_likelihood": 3.6332202661023863e-07
+        },
+        {
+            "text": "Controlling your dreams isn't just science-fiction. Here's what we know about lucid dreams.  https://t.co/yRhgK6foen",
+            "classification": 1,
+            "positive_likelihood": 0.9999742949234387,
+            "negative_likelihood": 2.5705076561867915e-05
+        },
+        {
+            "text": "REM? NREM? What do these acronyms mean, and what do they mean for our sleep?  https://t.co/6v016LYhWy",
+            "classification": 1,
+            "positive_likelihood": 0.9761761730926517,
+            "negative_likelihood": 0.023823826907347957
+        },
+        {
+            "text": "Feeling a cold coming on? Research shows getting more shut eye during an illness could help you fend it off.  https://t.co/PdNsVQYVwH",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999962471,
+            "negative_likelihood": 3.757251832298622e-12
+        },
+        {
+            "text": "As you wind down on #WorldSleepDay, take note of these tips for making your bedroom ideal for a good night's sleep.  https://t.co/Ch8GPjHl94",
+            "classification": 1,
+            "positive_likelihood": 0.9999093983959827,
+            "negative_likelihood": 9.060160401512417e-05
+        },
+        {
+            "text": "Get more out of your workout. Sleeping for 8 hours instead of 6 can increase your workout endurance by up to 30%. #sleepfacts #WorldSleepDay",
+            "classification": 1,
+            "positive_likelihood": 0.9999994560739379,
+            "negative_likelihood": 5.439260581129531e-07
+        },
+        {
+            "text": "Follow these steps to sleep better, and make your self-improvement goals a reality. #WorldSleepDay  https://t.co/xbuMPArlSA",
+            "classification": 1,
+            "positive_likelihood": 0.9999950549897996,
+            "negative_likelihood": 4.9450101980766675e-06
+        },
+        {
+            "text": "Cramming doesn't add up: It turns out pulling an all-nighter decreases your ability to absorb facts nearly 40%. #sleepfacts #WorldSleepDay",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999964145,
+            "negative_likelihood": 3.586703095209835e-12
+        },
+        {
+            "text": "From mood swings to weight gain, here's what happens to you when you're sleep deprived. #WorldSleepDay  https://t.co/3UyhGmTth6",
+            "classification": 1,
+            "positive_likelihood": 0.9999985317409038,
+            "negative_likelihood": 1.4682590932196773e-06
+        },
+        {
+            "text": "Stress doesn\u2019t do your sleep any favors. Here\u2019s how to overcome it so you can sleep better. #WorldSleepDay  https://t.co/dFaZr0PWPD",
+            "classification": 1,
+            "positive_likelihood": 0.9999961124230047,
+            "negative_likelihood": 3.887576992821864e-06
+        },
+        {
+            "text": "Sleeping just 4-5 hours a night (instead of 8) increases cravings for sweets and heavy carb-rich foods by 30-40%. #sleepfacts #WorldSleepDay",
+            "classification": 1,
+            "positive_likelihood": 0.9999999320172441,
+            "negative_likelihood": 6.798275694142704e-08
+        },
+        {
+            "text": "It might not be easy, but it's important to wake up at the same time each day \u2014 even on weekends. #WorldSleepDay  https://t.co/ESYu5qI1rd",
+            "classification": 1,
+            "positive_likelihood": 0.9999981662120185,
+            "negative_likelihood": 1.8337879790062448e-06
+        },
+        {
+            "text": "In celebration of #WorldSleepDay, we'll be sharing sleep facts and blog highlights with you throughout the day.",
+            "classification": 1,
+            "positive_likelihood": 0.9962270065048329,
+            "negative_likelihood": 0.0037729934951669787
+        },
+        {
+            "text": "These tips for creating the perfect bedtime ritual can help you make every night a good night.  https://t.co/NjbKiS469q",
+            "classification": 1,
+            "positive_likelihood": 0.9998955243517055,
+            "negative_likelihood": 0.00010447564828852038
+        },
+        {
+            "text": "It's #nationalnappingday. Here are five tips to getting the most out of that midday snooze.  https://t.co/IaRjsW4W9G",
+            "classification": 0,
+            "positive_likelihood": 0.7833497152048735,
+            "negative_likelihood": 0.2166502847951259
+        },
+        {
+            "text": "So, you're losing an hour of sleep this weekend. Here's how springing forward affects you, and what to do about it.  https://t.co/v6sKNFb7AR",
+            "classification": 1,
+            "positive_likelihood": 0.9993399449686418,
+            "negative_likelihood": 0.0006600550313595091
+        },
+        {
+            "text": "@OliviaCaridi It impacts your health, too.  https://t.co/NGmT3SEyq7",
+            "classification": 0,
+            "positive_likelihood": 0.9556451895672317,
+            "negative_likelihood": 0.04435481043276809
+        },
+        {
+            "text": "So, you're losing an hour of sleep this weekend. Here's how springing forward affects you, and what to do about it.  https://t.co/mtrgrURZdL",
+            "classification": 1,
+            "positive_likelihood": 0.9993399449686418,
+            "negative_likelihood": 0.0006600550313595091
+        },
+        {
+            "text": "@jeremywoertink Cheers to waking up better, Jeremy. Happy to hear that.",
+            "classification": 0,
+            "positive_likelihood": 0.1218121447935366,
+            "negative_likelihood": 0.8781878552064647
+        },
+        {
+            "text": "What more can you say to Sense with Voice? Check out the Voice tab for a list of commands. #SenseTips  https://t.co/b6v0QKEfmj",
+            "classification": 1,
+            "positive_likelihood": 0.9814276774894165,
+            "negative_likelihood": 0.018572322510586013
+        },
+        {
+            "text": "Driver fatigue is a major factor in car accidents. Here's what you should know about drowsy driving.  https://t.co/ERP4nKbnyW",
+            "classification": 1,
+            "positive_likelihood": 0.9999993346983855,
+            "negative_likelihood": 6.653016102043674e-07
+        },
+        {
+            "text": "@TechJournalist Yep. Just make sure you have the latest version of the Sense app and notifications turned on in your app settings.",
+            "classification": 1,
+            "positive_likelihood": 0.9999931956360631,
+            "negative_likelihood": 6.8043639374101685e-06
+        },
+        {
+            "text": "Introducing notifications: Now it's even easier to find out your Sleep Score every morning.  https://t.co/np7FEYbC2x",
+            "classification": 1,
+            "positive_likelihood": 0.999992665838352,
+            "negative_likelihood": 7.3341616433124695e-06
+        },
+        {
+            "text": "Don't pull an all-nighter while studying. Here's why you should prioritize hitting the hay after hitting the books.  https://t.co/oZvSk2AcfU",
+            "classification": 1,
+            "positive_likelihood": 0.9995209729095358,
+            "negative_likelihood": 0.0004790270904648042
+        },
+        {
+            "text": "Want to avoid the afternoon crash? Here are 5 tips to get your morning pick-me-up without a cup of coffee.  https://t.co/OW3zUqLRG1",
+            "classification": 1,
+            "positive_likelihood": 0.9999174205588968,
+            "negative_likelihood": 8.257944109801504e-05
+        },
+        {
+            "text": "The issue has been resolved, and your Sense should be working normally. If you\u2019re still experiencing an issue, please let us know.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999991923,
+            "negative_likelihood": 8.03790962523037e-13
+        },
+        {
+            "text": "One of our server providers is currently down, which may affect your experience with Sense. We\u2019ll keep you updated as we work to resolve.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999993007,
+            "negative_likelihood": 6.981510527403174e-13
+        },
+        {
+            "text": "There's a lot of mystery when it comes to the whys and hows of yawning, but here's what we know.  https://t.co/Hn4YiAXvU1",
+            "classification": 0,
+            "positive_likelihood": 0.8895244792098297,
+            "negative_likelihood": 0.11047552079016806
+        },
+        {
+            "text": "30% of American adults will experience insomnia symptoms this year. Learn the 5 main causes and count yourself out.  https://t.co/Iy0jb8Aviy",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999995075,
+            "negative_likelihood": 4.915853268873652e-13
+        },
+        {
+            "text": "For many, stress is a common feeling. But do you know the impact it can have on your health and sleep?  https://t.co/YLUXaUwiUI",
+            "classification": 1,
+            "positive_likelihood": 0.9999999949662354,
+            "negative_likelihood": 5.0337646432006374e-09
+        },
+        {
+            "text": "Are you and your partner using Sense together? Be sure to open the Sense app today for a special Insight just in time for Valentine's Day.  https://t.co/q1YG2mv2Td",
+            "classification": 1,
+            "positive_likelihood": 0.9999999975085657,
+            "negative_likelihood": 2.491431939567916e-09
+        },
+        {
+            "text": "Happy Valentine's Day. Let Sense with Voice help set the mood: Say \"Okay Sense, play something romantic.\" Chocolate and roses are on you.  https://t.co/5BcNVGRe1b",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 1.2087389575850035e-16
+        },
+        {
+            "text": "@imyke Hi Myke. We don't, but we always post updates for Sense here on Twitter.",
+            "classification": 0,
+            "positive_likelihood": 0.8911045744954551,
+            "negative_likelihood": 0.1088954255045425
+        },
+        {
+            "text": "@NaomiJPJourney Love it. Thanks for sharing, Naomi.",
+            "classification": 0,
+            "positive_likelihood": 0.060472962319749614,
+            "negative_likelihood": 0.9395270376802505
+        },
+        {
+            "text": "A dose of sunlight during the day can actually help you sleep better. Here's how it works.  https://t.co/K451yabRvi",
+            "classification": 1,
+            "positive_likelihood": 0.9999068181033991,
+            "negative_likelihood": 9.31818966003267e-05
+        },
+        {
+            "text": "Finding it hard to make it through the whole day? Find out what you can do to avoid crashing at 2 PM.  https://t.co/8Nj99TQzUn",
+            "classification": 1,
+            "positive_likelihood": 0.9999994619753654,
+            "negative_likelihood": 5.380246345510311e-07
+        },
+        {
+            "text": "We all know the term \u201cinternal clock\u201d, but what exactly is it, and how does it know it\u2019s time for you to sleep?  https://t.co/dyHyhmhzWB",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999995124,
+            "negative_likelihood": 4.856486769719369e-13
+        },
+        {
+            "text": "Caffeine is a sure-fire way to perk up in the morning. But how does it continue to affect you throughout the day?  https://t.co/reSvQP4ubA",
+            "classification": 1,
+            "positive_likelihood": 0.9999998936131056,
+            "negative_likelihood": 1.063868968249033e-07
+        },
+        {
+            "text": "@sthlmsrille We agree! Look for this coming soon.",
+            "classification": 0,
+            "positive_likelihood": 0.17861435086955368,
+            "negative_likelihood": 0.8213856491304456
+        },
+        {
+            "text": "Tap on any sensor, and you'll be able to see how conditions have changed during the day or week. #SenseTips  https://t.co/0mbDSZ9gCJ",
+            "classification": 1,
+            "positive_likelihood": 0.9999983419677433,
+            "negative_likelihood": 1.6580322566514515e-06
+        },
+        {
+            "text": "Ever find yourself snapping awake after dozing off? That\u2019s microsleep. Here's what it tells you about your sleep.  https://t.co/pTk25o2W7o",
+            "classification": 1,
+            "positive_likelihood": 0.9999999074802057,
+            "negative_likelihood": 9.25197949707416e-08
+        },
+        {
+            "text": "@afrodiziac80 Cheers to falling asleep easily, Susannah.",
+            "classification": 1,
+            "positive_likelihood": 0.9899678027927873,
+            "negative_likelihood": 0.010032197207212632
+        },
+        {
+            "text": "Why do people sleepwalk? Are they dreaming? Where are they going? Find answers to these questions, and more.  https://t.co/vE3XXXj9JU",
+            "classification": 1,
+            "positive_likelihood": 0.9999799129223684,
+            "negative_likelihood": 2.0087077630707922e-05
+        },
+        {
+            "text": "See what our CEO @jamesproud said to the @FinancialTimes about Sense, the unspoken rules of Silicon Valley, and more. https://t.co/gBc4FZoB2B",
+            "classification": 1,
+            "positive_likelihood": 0.9999979685811864,
+            "negative_likelihood": 2.0314188166836375e-06
+        },
+        {
+            "text": "The Nest Expansion is out of beta and now available to all Sense with Voice owners. Set your ideal temperature each morning, automatically.  https://t.co/uarOjnMqTs",
+            "classification": 1,
+            "positive_likelihood": 0.9999975944606491,
+            "negative_likelihood": 2.4055393500680827e-06
+        },
+        {
+            "text": "Find out how some of history\u2019s biggest names slept, and which ones (if any) you should emulate.  https://t.co/0XNUmDXOTo",
+            "classification": 1,
+            "positive_likelihood": 0.9999997681977313,
+            "negative_likelihood": 2.3180226572842084e-07
+        },
+        {
+            "text": "@bennyfroobs Thanks!",
+            "classification": 0,
+            "positive_likelihood": 0.0016187324392919953,
+            "negative_likelihood": 0.9983812675607081
+        },
+        {
+            "text": "Can you really catch up on sleep after pulling an all-nighter? Read on to learn how your body deals with sleep debt.  https://t.co/f3cKMDEapF",
+            "classification": 1,
+            "positive_likelihood": 0.9999999748675638,
+            "negative_likelihood": 2.5132436791572522e-08
+        },
+        {
+            "text": "@AldovZPublic Thank you again for the amazing photo, Aldo. We all love it here.",
+            "classification": 0,
+            "positive_likelihood": 0.020401414572812356,
+            "negative_likelihood": 0.9795985854271888
+        },
+        {
+            "text": "Congrats to @jennylmcfadyen for finding the secret. Ask Sense with Voice \u201cOkay Sense, who is your father?\u201d and listen closely.  https://t.co/QBK84pqOYe",
+            "classification": 1,
+            "positive_likelihood": 0.9999999995905857,
+            "negative_likelihood": 4.094201625256728e-10
+        },
+        {
+            "text": "Find out how Sense\u2019s Sleep Sounds help you fall asleep and stay asleep during the night.  https://t.co/jpiZBFpAsb",
+            "classification": 1,
+            "positive_likelihood": 0.9999999832421662,
+            "negative_likelihood": 1.6757834506248687e-08
+        },
+        {
+            "text": "Be the first to tell us what you discover, and we\u2019ll send you and a friend to the movies with a theatre gift card. It\u2019s your destiny.",
+            "classification": 1,
+            "positive_likelihood": 0.999999834956459,
+            "negative_likelihood": 1.6504354472908696e-07
+        },
+        {
+            "text": "Sense with Voice contains a secret from a galaxy far, far away. Search your feelings for the right question, and see how Sense responds.  https://t.co/dRy85O7dwj",
+            "classification": 1,
+            "positive_likelihood": 0.9999999997711204,
+            "negative_likelihood": 2.2887404583049754e-10
+        },
+        {
+            "text": "Sleeping in may feel great at the time, but here are some things to consider before you decide to snooze your alarm.  https://t.co/l7q4JnqQtX",
+            "classification": 1,
+            "positive_likelihood": 0.9999954574444914,
+            "negative_likelihood": 4.542555508682067e-06
+        },
+        {
+            "text": "@ToddMedema Done!",
+            "classification": 0,
+            "positive_likelihood": 0.00226197048704704,
+            "negative_likelihood": 0.9977380295129533
+        },
+        {
+            "text": "Before you dine tonight, read how what you eat can affect both your ability to fall asleep and your sleep quality.  https://t.co/wbXywDWqgT",
+            "classification": 1,
+            "positive_likelihood": 0.9999996863896587,
+            "negative_likelihood": 3.1361034193416636e-07
+        },
+        {
+            "text": "Thinking about redecorating in 2017? Here\u2019s what to consider when it comes to creating the right vibe for sleep.  https://t.co/ggTN81GtLy",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999969957,
+            "negative_likelihood": 2.9988881655090457e-12
+        },
+        {
+            "text": "@jodiem Thank you for reporting. It all should be fixed now. Try updating your app.",
+            "classification": 1,
+            "positive_likelihood": 0.9731975521119918,
+            "negative_likelihood": 0.0268024478880068
+        },
+        {
+            "text": "@simplywithstyle There's no need to keep your phone on or near Sense while you sleep. You don't even have to keep it in the bedroom.",
+            "classification": 1,
+            "positive_likelihood": 0.9999963643412918,
+            "negative_likelihood": 3.6356587077618587e-06
+        },
+        {
+            "text": "Let\u2019s make 2017 the year we stick to all of our resolutions (including getting better sleep). Here\u2019s how:  https://t.co/iqC1iv6ZxY",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999962372,
+            "negative_likelihood": 3.760399253295213e-12
+        },
+        {
+            "text": "Oh, what fun it is to say \u201cOkay Sense, Happy Holidays\u201d to Sense with Voice. We promise it\u2019ll make your spirit bright.  https://t.co/VCIHSQU6cy",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999995075,
+            "negative_likelihood": 4.90461110035874e-13
+        },
+        {
+            "text": "We\u2019re busy working on a little holiday treat for Sense with Voice owners. It\u2019ll be ready to unwrap tomorrow. No peeking.",
+            "classification": 1,
+            "positive_likelihood": 0.9999999963346369,
+            "negative_likelihood": 3.6653610123503936e-09
+        },
+        {
+            "text": ".@jamesproud wants to improve everyone's sleep. Learn how @washingtonpost's @htsuka is improving hers with Sense.  https://t.co/Tk2WcBJxDA",
+            "classification": 1,
+            "positive_likelihood": 0.9998942115552265,
+            "negative_likelihood": 0.00010578844477398217
+        },
+        {
+            "text": "Still looking for the perfect holiday gift for two? Sense with Voice and two Sleep Pills is now exclusively at @Target. Don\u2019t sleep on it.  https://t.co/GfcF6TWJ0c",
+            "classification": 1,
+            "positive_likelihood": 0.99999999985138,
+            "negative_likelihood": 1.486166438021508e-10
+        },
+        {
+            "text": "@evansims Thank you, Evan. Passing this along to our team.",
+            "classification": 1,
+            "positive_likelihood": 0.9956138991237726,
+            "negative_likelihood": 0.004386100876227644
+        },
+        {
+            "text": "Read about the gender gap in sleep, and learn how sleep affects us all differently.  https://t.co/akP4J5Jcp6",
+            "classification": 1,
+            "positive_likelihood": 0.9999999007664582,
+            "negative_likelihood": 9.92335470866152e-08
+        },
+        {
+            "text": "@chaseblood Not at this time, but that's a pretty interesting idea.",
+            "classification": 0,
+            "positive_likelihood": 0.40056250584469894,
+            "negative_likelihood": 0.5994374941552999
+        },
+        {
+            "text": "Looking for some holiday gifting ideas? Check out @thrive's 12 Days of Thriving gift collection, featuring Sense.  https://t.co/ZdzWcs3XDE",
+            "classification": 1,
+            "positive_likelihood": 0.9999164886672898,
+            "negative_likelihood": 8.351133270767647e-05
+        },
+        {
+            "text": "@coryworthen Yes, of course.",
+            "classification": 0,
+            "positive_likelihood": 0.016193548584116087,
+            "negative_likelihood": 0.9838064514158837
+        }
+    ],
+    "depressed": true,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

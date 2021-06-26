@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+
+{%block header%}
+<div class="card-header">
+    <h3 class="card-subtitle mb-2 text-muted" style="text-align:center;">Analyse username:</h3>
+</div>
+{%endblock%}
+
+{% block content %}
+
+
+<form action="/" method="POST">
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" class="form-control">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Search</button> 
+</form>
+
+{%endblock content%}
+
+{%block bottom%}
+<div class="container" style="padding-top: 1%; padding-bottom: 5%;">
+    <div class="card">
+        
+        <div class="card-header">
+            <h3 class="card-subtitle mb-2 text-muted" style="text-align:center;">Analyse text:</h3>
+        </div>
+        
+        <div class="card-body">
+            <form action="{{url_for('text_analyse')}}" method="POST">
+                <div class="form-group">
+                    <label for="text_fill">Text to analyse:</label>
+                
+                    <input type="text" id="text_fill" name="text_fill" class="form-control">
+                </div>
+                
+                
+                <button type="submit" class="btn btn-primary">Search</button> 
+            </form>
+        </div>
+    </div>  
+</div>
+{%endblock bottom%}

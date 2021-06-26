@@ -1,0 +1,12 @@
+model_id,96
+username,hello
+total_posts,100
+total_positive,80
+total_negative,20
+percent_positive,0.8
+percent_negative,0.2
+average_positive_likelihood,0.8931691701606483
+average_negative_likelihood,0.10683082983935088
+depressed,True
+switchpoint,0.8
+classification_switchpoint,0.96

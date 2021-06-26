@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "michaelreeves",
+    "total_posts": 100,
+    "total_positive": 29,
+    "total_negative": 71,
+    "percent_positive": 0.29,
+    "percent_negative": 0.71,
+    "average_positive_likelihood": 0.4740566699140583,
+    "average_negative_likelihood": 0.5259433300859415,
+    "posts": [
+        {
+            "text": " https://t.co/y5OnR0L8Jz",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Vegas Update: smoke crack go ape mode",
+            "classification": 0,
+            "positive_likelihood": 0.6113252262064124,
+            "negative_likelihood": 0.3886747737935881
+        },
+        {
+            "text": "jimin burger NOW",
+            "classification": 0,
+            "positive_likelihood": 0.12454808282771224,
+            "negative_likelihood": 0.8754519171722868
+        },
+        {
+            "text": " https://t.co/c1bQ7HDTRP",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "nature  https://t.co/axXLCphSOC",
+            "classification": 0,
+            "positive_likelihood": 0.05074396701183661,
+            "negative_likelihood": 0.9492560329881629
+        },
+        {
+            "text": " https://t.co/Cjxs2Gso3p",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "fuck I have to drive home now",
+            "classification": 0,
+            "positive_likelihood": 0.6160355544225607,
+            "negative_likelihood": 0.3839644455774381
+        },
+        {
+            "text": " https://t.co/lY0CfXyvAo",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "oops took 6 months haha oopsie stinky  link's in the replies  https://t.co/dfVOAeCp9c",
+            "classification": 1,
+            "positive_likelihood": 0.9932195754430286,
+            "negative_likelihood": 0.006780424556970186
+        },
+        {
+            "text": "Oh shit I forgot to make YouTube videos for the past 6 months",
+            "classification": 1,
+            "positive_likelihood": 0.9999892828048081,
+            "negative_likelihood": 1.0717195189940844e-05
+        },
+        {
+            "text": "@LilyPichu  https://t.co/Xcy2bcBnmj",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Okay but what does Vision's dick look like though?",
+            "classification": 1,
+            "positive_likelihood": 0.9960910519603817,
+            "negative_likelihood": 0.003908948039617312
+        },
+        {
+            "text": "@Casey switch to crack",
+            "classification": 0,
+            "positive_likelihood": 0.12710241112317622,
+            "negative_likelihood": 0.8728975888768213
+        },
+        {
+            "text": "Apparently the DMV doesn't think my 2019 Vidcon creator pass is a \"valid form of ID\". the government is a joke",
+            "classification": 1,
+            "positive_likelihood": 1.0,
+            "negative_likelihood": 5.602686497302319e-19
+        },
+        {
+            "text": " https://t.co/sisTFnojci",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Melvin Capital can short squeeze deez nuts, I'm holding the line until your fucking building falls over",
+            "classification": 1,
+            "positive_likelihood": 0.9999999990182883,
+            "negative_likelihood": 9.817130320279875e-10
+        },
+        {
+            "text": "bring back the diet coke button RIGHT NOW.",
+            "classification": 0,
+            "positive_likelihood": 0.4397970869340963,
+            "negative_likelihood": 0.5602029130659019
+        },
+        {
+            "text": "Fucking bad house of cards season looking ass year",
+            "classification": 1,
+            "positive_likelihood": 0.9998618957075611,
+            "negative_likelihood": 0.00013810429243929699
+        },
+        {
+            "text": "2020 Season 2 kicking off with an absolute BANGER",
+            "classification": 1,
+            "positive_likelihood": 0.9999749224913485,
+            "negative_likelihood": 2.507750865403878e-05
+        },
+        {
+            "text": "@eddyburback Oh boy I can't wait to see my favorite tweet with no dumb bullshit in the replies",
+            "classification": 1,
+            "positive_likelihood": 0.9973852691096503,
+            "negative_likelihood": 0.002614730890351951
+        },
+        {
+            "text": "@pokimanelol @OfflineTV @LilyPichu  https://t.co/gJNRCqeN5L",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Shout out to Balto if you remember Balto",
+            "classification": 0,
+            "positive_likelihood": 0.5880637790506126,
+            "negative_likelihood": 0.4119362209493858
+        },
+        {
+            "text": "Kpop",
+            "classification": 0,
+            "positive_likelihood": 0.0714146745754294,
+            "negative_likelihood": 0.9285853254245715
+        },
+        {
+            "text": "really cant leave my phone anywhere in this fucking house",
+            "classification": 1,
+            "positive_likelihood": 0.9998973342150077,
+            "negative_likelihood": 0.00010266578499275326
+        },
+        {
+            "text": "uwu",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "is heroin keto friendly?",
+            "classification": 1,
+            "positive_likelihood": 0.9817743908610084,
+            "negative_likelihood": 0.018225609138990573
+        },
+        {
+            "text": "Just found out my doctor is into SCP!? It's so cool, he told me all about this new SCP called \"Gone-Area\", and how i might have it. just awesome to see people take part in internet culture",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999973601,
+            "negative_likelihood": 2.6357612886757193e-12
+        },
+        {
+            "text": "@LilyPichu Found the pic of dream me  https://t.co/LvC3nGbeJi",
+            "classification": 0,
+            "positive_likelihood": 0.354354473833384,
+            "negative_likelihood": 0.6456455261666182
+        },
+        {
+            "text": "Just found out it's not the \"J-Ballin' Burger\", it's the \"J-Balvin Burger\" and I'm fucking furrious this is pushing me over the goddamn edge I am dangling by a thread",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999997143,
+            "negative_likelihood": 2.867926049606674e-13
+        },
+        {
+            "text": "@EmirichuYT 1. Jellied Eels 2. British 3. 4. 5.",
+            "classification": 0,
+            "positive_likelihood": 0.9467829802344927,
+            "negative_likelihood": 0.053217019765504914
+        },
+        {
+            "text": "@yvonnie @LilyPichu  https://t.co/AyDQdNPPPP",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@CrabsAndScience  https://t.co/vkF0Cip5DJ",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": " https://t.co/UMTCrDLAzi",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "\"michael why you always make fun of british food\"  https://t.co/cp6pOBfQXv",
+            "classification": 1,
+            "positive_likelihood": 0.9999531609304562,
+            "negative_likelihood": 4.6839069544394335e-05
+        },
+        {
+            "text": "i wonder what chum lee is doing this very second",
+            "classification": 0,
+            "positive_likelihood": 0.49108054012879976,
+            "negative_likelihood": 0.5089194598712025
+        },
+        {
+            "text": "@LilyPichu  https://t.co/xbqA1AxcBJ",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "this is the magnum opus of my graphic design ability:  https://t.co/3AlsSuNYQN",
+            "classification": 1,
+            "positive_likelihood": 0.9970899388913238,
+            "negative_likelihood": 0.002910061108675886
+        },
+        {
+            "text": "@Valkyrae  https://t.co/pAOq5PxKAu",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Bro @mayatochondria when tf you get a Twitter?",
+            "classification": 0,
+            "positive_likelihood": 0.1665869958602345,
+            "negative_likelihood": 0.833413004139766
+        },
+        {
+            "text": "Than you so much @eddyburback and Maya for helping out with this. Gamers Game Together",
+            "classification": 1,
+            "positive_likelihood": 0.9971357466926565,
+            "negative_likelihood": 0.002864253307343882
+        },
+        {
+            "text": "Here Video:  https://t.co/ezmZMrWcfS",
+            "classification": 0,
+            "positive_likelihood": 0.012306628574324954,
+            "negative_likelihood": 0.987693371425675
+        },
+        {
+            "text": "Gamers Rise @TheBoysTV #ad  https://t.co/iwOpt7fvXz",
+            "classification": 0,
+            "positive_likelihood": 0.1250629495701084,
+            "negative_likelihood": 0.87493705042989
+        },
+        {
+            "text": "@DisguisedToast  https://t.co/UP2BJ3VzGD",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Buddhist Monk Self Immolates in Protest of the Vietnam War  -   Jun 11, 1963  https://t.co/rJv3P6V3pR",
+            "classification": 1,
+            "positive_likelihood": 0.9999996634956021,
+            "negative_likelihood": 3.365043953365624e-07
+        },
+        {
+            "text": "one of those nights  https://t.co/t82W0ZSoeg",
+            "classification": 0,
+            "positive_likelihood": 0.7932386151653146,
+            "negative_likelihood": 0.2067613848346861
+        },
+        {
+            "text": "eArThqUaKe? yes, fuck go back to sleep",
+            "classification": 0,
+            "positive_likelihood": 0.8616758451786004,
+            "negative_likelihood": 0.13832415482139981
+        },
+        {
+            "text": " https://t.co/VqVgBkgtuL",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": " https://t.co/RcAKpZKF45",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Just tweeting to flex on these checkmark dipshits",
+            "classification": 1,
+            "positive_likelihood": 0.9898495026768879,
+            "negative_likelihood": 0.010150497323111542
+        },
+        {
+            "text": " https://t.co/muIxs9NReH",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "can't stop thinking about this  https://t.co/zgfsj53Dl6",
+            "classification": 0,
+            "positive_likelihood": 0.8982703224729484,
+            "negative_likelihood": 0.1017296775270503
+        },
+        {
+            "text": "Stream go brrrrrrrr  https://t.co/WjBXVqZv2i",
+            "classification": 0,
+            "positive_likelihood": 0.8747854481245207,
+            "negative_likelihood": 0.12521455187547845
+        },
+        {
+            "text": "Fun stream  https://t.co/8GGbJZbKf0",
+            "classification": 0,
+            "positive_likelihood": 0.05076853024678311,
+            "negative_likelihood": 0.9492314697532162
+        },
+        {
+            "text": "Gamers   https://t.co/TILfNmosrv  https://t.co/j6D8rseWtl",
+            "classification": 0,
+            "positive_likelihood": 0.035553462346499386,
+            "negative_likelihood": 0.964446537653502
+        },
+        {
+            "text": "newest art piece I put up for @LilyPichu  https://t.co/ofoKkqzE7I",
+            "classification": 0,
+            "positive_likelihood": 0.8739240795025335,
+            "negative_likelihood": 0.12607592049746882
+        },
+        {
+            "text": "@Fedmyster @LilyPichu What the fuck",
+            "classification": 0,
+            "positive_likelihood": 0.08250840807185114,
+            "negative_likelihood": 0.9174915919281481
+        },
+        {
+            "text": "full video:  https://t.co/wnaIC5jDp5",
+            "classification": 0,
+            "positive_likelihood": 0.10870136920917933,
+            "negative_likelihood": 0.8912986307908198
+        },
+        {
+            "text": "New Video  https://t.co/4lRWOc8ZOF",
+            "classification": 0,
+            "positive_likelihood": 0.018526515773517067,
+            "negative_likelihood": 0.9814734842264834
+        },
+        {
+            "text": "@LilyPichu HHHHMMMMMMMMMMMMMMMMMMMM",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@LilyPichu hmmmm",
+            "classification": 0,
+            "positive_likelihood": 0.0020916128024721344,
+            "negative_likelihood": 0.9979083871975278
+        },
+        {
+            "text": ".@LilyPichu opens boxes like a fucking serial killer  https://t.co/JNhJloydL9",
+            "classification": 1,
+            "positive_likelihood": 0.9991461433084865,
+            "negative_likelihood": 0.0008538566915136162
+        },
+        {
+            "text": "FUCK FUCK FUCK FUCK",
+            "classification": 0,
+            "positive_likelihood": 0.08250840807185114,
+            "negative_likelihood": 0.9174915919281481
+        },
+        {
+            "text": " https://t.co/jdQAEvse6Q",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@LilyPichu What's your win rate look like now?",
+            "classification": 0,
+            "positive_likelihood": 0.8073440431832618,
+            "negative_likelihood": 0.19265595681673847
+        },
+        {
+            "text": " https://t.co/golRLuYjEu",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": " https://t.co/A6z5HK3W46",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "give me your robot ideas because I love them so so so so much",
+            "classification": 0,
+            "positive_likelihood": 0.9092064784238262,
+            "negative_likelihood": 0.09079352157617554
+        },
+        {
+            "text": "@LilyPichu It really do, they say it don't, but it really do",
+            "classification": 0,
+            "positive_likelihood": 0.38130547881623145,
+            "negative_likelihood": 0.6186945211837687
+        },
+        {
+            "text": "@hotpockets Give me hot pockets",
+            "classification": 0,
+            "positive_likelihood": 0.048156803587986546,
+            "negative_likelihood": 0.951843196412013
+        },
+        {
+            "text": "@hotpockets Don't tell me what to do",
+            "classification": 0,
+            "positive_likelihood": 0.12503879985910735,
+            "negative_likelihood": 0.8749612001408928
+        },
+        {
+            "text": "@hotpockets oh jeez oh god oh fuck",
+            "classification": 0,
+            "positive_likelihood": 0.5979855389589424,
+            "negative_likelihood": 0.40201446104105665
+        },
+        {
+            "text": "Immigrant parents are the best  https://t.co/iwIY2haa3H",
+            "classification": 1,
+            "positive_likelihood": 0.9762437302200951,
+            "negative_likelihood": 0.02375626977990346
+        },
+        {
+            "text": "I want to make a video about WWIII. Going to be a real funny meme all the way up until I get fucking drafted",
+            "classification": 1,
+            "positive_likelihood": 0.9999998868766632,
+            "negative_likelihood": 1.1312333943330272e-07
+        },
+        {
+            "text": "I think turtles are starting to grow on me..\ud83d\ude33",
+            "classification": 0,
+            "positive_likelihood": 0.8910829707310346,
+            "negative_likelihood": 0.1089170292689641
+        },
+        {
+            "text": "For Christmas @Fedmyster got me this. It is the best present I've ever received  https://t.co/xxYIb52m8n",
+            "classification": 1,
+            "positive_likelihood": 0.998819580219824,
+            "negative_likelihood": 0.0011804197801766805
+        },
+        {
+            "text": "lily is the coolsest persiob",
+            "classification": 0,
+            "positive_likelihood": 0.017323165287455436,
+            "negative_likelihood": 0.9826768347125443
+        },
+        {
+            "text": "Moonshine is the indie band of alcohol",
+            "classification": 0,
+            "positive_likelihood": 0.37181067021128233,
+            "negative_likelihood": 0.6281893297887179
+        },
+        {
+            "text": "I will learn to lock my computer in this household",
+            "classification": 0,
+            "positive_likelihood": 0.9117202182745825,
+            "negative_likelihood": 0.08827978172541931
+        },
+        {
+            "text": "my name is mykull and i like anime ^_^  https://t.co/mzlQqyFo2T",
+            "classification": 1,
+            "positive_likelihood": 0.9665931216491345,
+            "negative_likelihood": 0.03340687835086572
+        },
+        {
+            "text": "Full Video:   https://t.co/B2q1M4iIzo",
+            "classification": 0,
+            "positive_likelihood": 0.10870136920917933,
+            "negative_likelihood": 0.8912986307908198
+        },
+        {
+            "text": "New Video: Tazer Tag  https://t.co/Qdl6l9jsyx",
+            "classification": 0,
+            "positive_likelihood": 0.7295648876774734,
+            "negative_likelihood": 0.27043511232252715
+        },
+        {
+            "text": "What should I build for @offlineTVgg",
+            "classification": 0,
+            "positive_likelihood": 0.0407918003421036,
+            "negative_likelihood": 0.9592081996578957
+        },
+        {
+            "text": "I can't wait to tear OfflineTV apart from the inside",
+            "classification": 1,
+            "positive_likelihood": 0.9991457270741061,
+            "negative_likelihood": 0.0008542729258950799
+        },
+        {
+            "text": "My manager got a new phone  https://t.co/Vaova8TxRK",
+            "classification": 0,
+            "positive_likelihood": 0.18614261337066318,
+            "negative_likelihood": 0.8138573866293374
+        },
+        {
+            "text": "Howdy there buckaroo  https://t.co/zeTg9wvmnm",
+            "classification": 0,
+            "positive_likelihood": 0.38411526313839905,
+            "negative_likelihood": 0.6158847368616032
+        },
+        {
+            "text": "@estefanniegg Here ya go:  https://t.co/Z1Ic26PTVa  I don't make everything public, so if you need a repo that's not there lmk and I'll send it to you!",
+            "classification": 1,
+            "positive_likelihood": 0.9999803898257383,
+            "negative_likelihood": 1.961017426076081e-05
+        },
+        {
+            "text": "@EmirichuYT @LilyPichu @LilyPichu haha she called you a crackhead",
+            "classification": 0,
+            "positive_likelihood": 0.04932826279787081,
+            "negative_likelihood": 0.9506717372021288
+        },
+        {
+            "text": "Happy shared birthday meth addict @LilyPichu  https://t.co/nFYiYkOpJL",
+            "classification": 0,
+            "positive_likelihood": 0.8843491929393743,
+            "negative_likelihood": 0.1156508070606259
+        },
+        {
+            "text": "@LilyPichu  https://t.co/EzOtdbHtz4",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": " https://t.co/Bb89Gvaeok",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@LilyPichu  https://t.co/QHUEK5pqhR",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@LilyPichu You were literally throwing them off the ledge so you could cycle to the ones you wanted...",
+            "classification": 1,
+            "positive_likelihood": 0.999999091463478,
+            "negative_likelihood": 9.085365209797591e-07
+        },
+        {
+            "text": "@LilyPichu  https://t.co/3iNCV2FBfi",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "Top 10 Pictures Taken Moments Before Disaster  https://t.co/SU0nJJjk86",
+            "classification": 1,
+            "positive_likelihood": 0.9956190189654671,
+            "negative_likelihood": 0.004380981034537909
+        },
+        {
+            "text": "@jerrytrainor 10/10 smells even better on fire",
+            "classification": 1,
+            "positive_likelihood": 0.9994255396991332,
+            "negative_likelihood": 0.0005744603008670453
+        },
+        {
+            "text": " https://t.co/uWdjX65qMt",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "This is what happens when you let Twitter decorate your room  Full video linked below  https://t.co/eam5ojInG6",
+            "classification": 0,
+            "positive_likelihood": 0.7779168514447155,
+            "negative_likelihood": 0.22208314855528236
+        },
+        {
+            "text": "24 Hours is up. I shut down the bot.  Stay tuned for the YouTube video to see what I get \u2764\ufe0f",
+            "classification": 1,
+            "positive_likelihood": 0.9999894146372432,
+            "negative_likelihood": 1.0585362756190922e-05
+        },
+        {
+            "text": "24 hours is up, the bot is now shut down, thanks for playing",
+            "classification": 0,
+            "positive_likelihood": 0.7775644924252804,
+            "negative_likelihood": 0.2224355075747184
+        },
+        {
+            "text": "@michaelreeves08 Bot - Just purchased: Otamatone [Japanese Edition] Japanese Electronic Musical Instrument Synthesizer by Cube / Maywa Denki, White",
+            "classification": 1,
+            "positive_likelihood": 0.9982119743932926,
+            "negative_likelihood": 0.0017880256067047808
+        }
+    ],
+    "depressed": false,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

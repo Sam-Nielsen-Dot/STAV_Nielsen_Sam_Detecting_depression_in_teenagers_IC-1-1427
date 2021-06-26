@@ -1,0 +1,616 @@
+{
+    "model_id": 96,
+    "username": "Cheema_xD",
+    "total_posts": 100,
+    "total_positive": 27,
+    "total_negative": 73,
+    "percent_positive": 0.27,
+    "percent_negative": 0.73,
+    "average_positive_likelihood": 0.35535336453516864,
+    "average_negative_likelihood": 0.6446466354648313,
+    "posts": [
+        {
+            "text": "If any bad bitches wanna take advantage of me they can slide in my dm cause Im feeling vulnerable rn",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999984732,
+            "negative_likelihood": 1.526004588955293e-12
+        },
+        {
+            "text": "@Praxshh Oh",
+            "classification": 0,
+            "positive_likelihood": 0.002969057668807773,
+            "negative_likelihood": 0.9970309423311928
+        },
+        {
+            "text": "@singhwhotweets @Rxajat @aryanowo Kahe thak rhe ho",
+            "classification": 1,
+            "positive_likelihood": 0.9985989074703077,
+            "negative_likelihood": 0.001401092529691043
+        },
+        {
+            "text": "If you want to lose weight quick read this thread",
+            "classification": 1,
+            "positive_likelihood": 0.9998737441373774,
+            "negative_likelihood": 0.0001262558626242064
+        },
+        {
+            "text": "Cooling\ud83e\udd76 pet mat for the hot\ud83d\udd25 weather #Ad    https://t.co/4PMBczXxXb  https://t.co/cvuv2SnOlX",
+            "classification": 0,
+            "positive_likelihood": 0.10658130159652779,
+            "negative_likelihood": 0.8934186984034708
+        },
+        {
+            "text": "@jagbir23 Flopped big gangsta\ud83d\udcaf\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.011944287572259375,
+            "negative_likelihood": 0.988055712427741
+        },
+        {
+            "text": "@lost_in_spaceee Mai nhi maanta",
+            "classification": 0,
+            "positive_likelihood": 0.08172695659202667,
+            "negative_likelihood": 0.918273043407973
+        },
+        {
+            "text": "Just get that tattoo, your parents are already disappointed in you",
+            "classification": 1,
+            "positive_likelihood": 0.9957964110132279,
+            "negative_likelihood": 0.0042035889867704235
+        },
+        {
+            "text": "@Ccruzz_xx @mrabhimish Hey lol",
+            "classification": 0,
+            "positive_likelihood": 0.000786059729900821,
+            "negative_likelihood": 0.9992139402700982
+        },
+        {
+            "text": "\u201cyou changed fr\u201d bro we were in school",
+            "classification": 1,
+            "positive_likelihood": 0.9999979980178805,
+            "negative_likelihood": 2.001982115780451e-06
+        },
+        {
+            "text": "@JattSemion @sayianwalaa @possiblyjsmn @kgolu13 Yessir",
+            "classification": 0,
+            "positive_likelihood": 0.013155174179001665,
+            "negative_likelihood": 0.9868448258209992
+        },
+        {
+            "text": "@sayianwalaa @possiblyjsmn @kgolu13 Bhabi sohni aa",
+            "classification": 0,
+            "positive_likelihood": 0.04097537157599727,
+            "negative_likelihood": 0.9590246284240023
+        },
+        {
+            "text": "@ACIDDRIPPINGG @Babyyyyaddy Aired",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@stfusuzan  https://t.co/laZSYllVTQ",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@aaanushikaaaaa Thas cap\ud83e\udde2\ud83e\udde2\ud83e\udde2\ud83d\ude39",
+            "classification": 0,
+            "positive_likelihood": 0.012817861114496783,
+            "negative_likelihood": 0.9871821388855035
+        },
+        {
+            "text": "@aaanushikaaaaa Thankyou anushika\u2764\ufe0f\ud83d\udcaf",
+            "classification": 0,
+            "positive_likelihood": 0.0008024002002147649,
+            "negative_likelihood": 0.9991975997997855
+        },
+        {
+            "text": "@hi_ImLeti Thankyou leti\ud83e\udd70",
+            "classification": 0,
+            "positive_likelihood": 0.0008024002002147649,
+            "negative_likelihood": 0.9991975997997855
+        },
+        {
+            "text": "@Paravgotnochill Im different",
+            "classification": 0,
+            "positive_likelihood": 0.16869681941402506,
+            "negative_likelihood": 0.8313031805859752
+        },
+        {
+            "text": "@armanxsidhu Bamb baiji",
+            "classification": 0,
+            "positive_likelihood": 0.12497708329744865,
+            "negative_likelihood": 0.8750229167025518
+        },
+        {
+            "text": "@JasleenCheemaaa @dopelifeshit @Rxajat @singhwhotweets @Paravgotnochill @ShobhnaRajain @Jskrnx @ambarahaha @nooorjohal @igotnochillbroo @sparklyby Hey lol",
+            "classification": 0,
+            "positive_likelihood": 0.000786059729900821,
+            "negative_likelihood": 0.9992139402700982
+        },
+        {
+            "text": "@GuniBajwa Khichhhh dena kam bas",
+            "classification": 0,
+            "positive_likelihood": 0.2888251108603107,
+            "negative_likelihood": 0.7111748891396888
+        },
+        {
+            "text": "@JasleenCheemaaa @singhwhotweets @Rxajat @jassuuji \ud83e\udde2\ud83e\udde2\ud83e\udde2\ud83e\udde2\ud83e\udde2",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@singhwhotweets @Rxajat @jassuuji @JasleenCheemaaa Ion even knew her existence bru\ud83d\ude39",
+            "classification": 1,
+            "positive_likelihood": 0.9994469762199089,
+            "negative_likelihood": 0.0005530237800911145
+        },
+        {
+            "text": "@Rxajat @singhwhotweets @jassuuji Yee and @JasleenCheemaaa you are in the middle\ud83d\ude08",
+            "classification": 0,
+            "positive_likelihood": 0.0070407884262413895,
+            "negative_likelihood": 0.9929592115737585
+        },
+        {
+            "text": "@singhwhotweets @jassuuji Isn\u2019t that my bitmoji \ud83d\ude2d",
+            "classification": 1,
+            "positive_likelihood": 0.9999734498107428,
+            "negative_likelihood": 2.655018925620689e-05
+        },
+        {
+            "text": "@SMoosewali Was bout to ask same from you \ud83d\ude32",
+            "classification": 0,
+            "positive_likelihood": 0.026093320426794145,
+            "negative_likelihood": 0.9739066795732055
+        },
+        {
+            "text": "@SMoosewali \ud83e\udde2 cap",
+            "classification": 0,
+            "positive_likelihood": 0.004642994369088388,
+            "negative_likelihood": 0.9953570056309106
+        },
+        {
+            "text": "@SMoosewali Yes agaye",
+            "classification": 0,
+            "positive_likelihood": 0.0032055262649268814,
+            "negative_likelihood": 0.9967944737350733
+        },
+        {
+            "text": "@vibratormention  https://t.co/c7xmjGdNa1",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@THEZOERUIZ Hi ,I been waiting for you anyway how was your day?",
+            "classification": 0,
+            "positive_likelihood": 0.0852356336087155,
+            "negative_likelihood": 0.9147643663912849
+        },
+        {
+            "text": "@JasleenCheemaaa @Rxajat @sparklyrye \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "classification": 0,
+            "positive_likelihood": 0.8999811397650667,
+            "negative_likelihood": 0.10001886023493298
+        },
+        {
+            "text": "@Rxajat Aap pehle",
+            "classification": 0,
+            "positive_likelihood": 0.8317725181422052,
+            "negative_likelihood": 0.16822748185779285
+        },
+        {
+            "text": "@sparklyrye @kaeroseee Ummm chal bye bolde ab",
+            "classification": 0,
+            "positive_likelihood": 0.37124286622266506,
+            "negative_likelihood": 0.6287571337773329
+        },
+        {
+            "text": "@Paravgotnochill \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@Satyawadi16 Kesar wala dhudh piya kar bhai",
+            "classification": 1,
+            "positive_likelihood": 0.9954022829314495,
+            "negative_likelihood": 0.004597717068550741
+        },
+        {
+            "text": "@seketulaizat So tru",
+            "classification": 0,
+            "positive_likelihood": 0.00724486956003682,
+            "negative_likelihood": 0.9927551304399637
+        },
+        {
+            "text": "-I whisper \u201cThe fuck\u201d to myself at least 20 times a day\ud83d\ude02",
+            "classification": 1,
+            "positive_likelihood": 0.999999861679967,
+            "negative_likelihood": 1.3832003209362114e-07
+        },
+        {
+            "text": "@Paravgotnochill @bholakaka Stop sharing em",
+            "classification": 0,
+            "positive_likelihood": 0.09900325790458181,
+            "negative_likelihood": 0.9009967420954179
+        },
+        {
+            "text": "@kevteyy @Paravgotnochill look what I found for ya\ud83d\udcaf",
+            "classification": 0,
+            "positive_likelihood": 0.0795001322266172,
+            "negative_likelihood": 0.920499867773382
+        },
+        {
+            "text": "@bholakaka @sayianwalaa @kgolu13 @Ohluwatoscene Oh te tweet wali kirpa kru",
+            "classification": 0,
+            "positive_likelihood": 0.9372210847568516,
+            "negative_likelihood": 0.06277891524314806
+        },
+        {
+            "text": "@bholakaka @sayianwalaa @kgolu13 @Ohluwatoscene \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@sayianwalaa @bholakaka @kgolu13 @Ohluwatoscene And Upro thalle tak\ud83e\udd23\ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@sayianwalaa @bholakaka @kgolu13 @Ohluwatoscene Gucci gucci krdeni pabi veere ne",
+            "classification": 0,
+            "positive_likelihood": 0.032819552219928674,
+            "negative_likelihood": 0.9671804477800703
+        },
+        {
+            "text": "@bholakaka @kgolu13 @Ohluwatoscene Khareedlo naldiya li as a \ud83c\udf81",
+            "classification": 0,
+            "positive_likelihood": 0.005207247772736002,
+            "negative_likelihood": 0.9947927522272636
+        },
+        {
+            "text": "@kgolu13 @Ohluwatoscene Business grow kr rhi vichari",
+            "classification": 1,
+            "positive_likelihood": 0.9981228841351265,
+            "negative_likelihood": 0.001877115864872474
+        },
+        {
+            "text": "Why I\u2019m the type of person that has clothes from like 3 years ago that I won\u2019t throw away because \u2018just incase\u2019\ud83d\ude02\ud83d\ude2d",
+            "classification": 1,
+            "positive_likelihood": 0.999999999999931,
+            "negative_likelihood": 7.540822390750931e-14
+        },
+        {
+            "text": "@Babyyyyaddy @liilmaddy Who tf asked?",
+            "classification": 0,
+            "positive_likelihood": 0.8490340039300285,
+            "negative_likelihood": 0.15096599606997152
+        },
+        {
+            "text": "@ACIDDRIPPINGG @IcyJaime Who are you?",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@IcyJaime Yee my brodie\ud83c\udf0b",
+            "classification": 0,
+            "positive_likelihood": 0.0070407884262413895,
+            "negative_likelihood": 0.9929592115737585
+        },
+        {
+            "text": "@IcyJaime U mean Im fake?",
+            "classification": 0,
+            "positive_likelihood": 0.5503817227698149,
+            "negative_likelihood": 0.44961827723018627
+        },
+        {
+            "text": "@ACIDDRIPPINGG ?????",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@ACIDDRIPPINGG I thought ye jiggy jiggy waali movie paad pussy kahan se agaye",
+            "classification": 1,
+            "positive_likelihood": 0.9999986999915143,
+            "negative_likelihood": 1.300008484634535e-06
+        },
+        {
+            "text": "@2ksonny Jus say \u201d You don\u2019t trust me I knew you never loved me I can live alone Im better off without you\u201d at her face",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999212,
+            "negative_likelihood": 7.751413680547205e-14
+        },
+        {
+            "text": "@sayianwalaa @bholakaka Ig hes Running low on supply nowadays",
+            "classification": 1,
+            "positive_likelihood": 0.9999860136515331,
+            "negative_likelihood": 1.3986348466208205e-05
+        },
+        {
+            "text": "@Paravgotnochill Itni zyada dekhli ab toh dekhne ka mann ni krta , ab mai practitioner bann\u2019na chahta hu mai uss chitarkala ka",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999999212,
+            "negative_likelihood": 7.2761846271875e-14
+        },
+        {
+            "text": "@bholakaka Suffering cause I ain\u2019t got any tiddies in dm yet\ud83d\ude29",
+            "classification": 1,
+            "positive_likelihood": 0.9999949529496635,
+            "negative_likelihood": 5.047050335299219e-06
+        },
+        {
+            "text": "@mehknfox Just say you don\u2019t talk wit me nomo",
+            "classification": 1,
+            "positive_likelihood": 0.9999725452423682,
+            "negative_likelihood": 2.7454757631988232e-05
+        },
+        {
+            "text": "@singhwhotweets Yeee I agree samsung are still better than other droids",
+            "classification": 1,
+            "positive_likelihood": 0.995232773168159,
+            "negative_likelihood": 0.004767226831841857
+        },
+        {
+            "text": "@mehknfox @RanaRxjat Says who??",
+            "classification": 0,
+            "positive_likelihood": 0.00724486956003682,
+            "negative_likelihood": 0.9927551304399637
+        },
+        {
+            "text": "@ihyjuju She doesn\u2019t want you either bro",
+            "classification": 1,
+            "positive_likelihood": 0.9997724196147634,
+            "negative_likelihood": 0.0002275803852353429
+        },
+        {
+            "text": "@notsosukhii yeeee Undoubtedly",
+            "classification": 0,
+            "positive_likelihood": 0.22006685327338044,
+            "negative_likelihood": 0.7799331467266185
+        },
+        {
+            "text": "@RanaRxjat @bholakaka Thanks in advance veere",
+            "classification": 0,
+            "positive_likelihood": 0.012025636755653575,
+            "negative_likelihood": 0.9879743632443464
+        },
+        {
+            "text": "@RanaRxjat Yessss sir",
+            "classification": 0,
+            "positive_likelihood": 0.013579666900429995,
+            "negative_likelihood": 0.9864203330995701
+        },
+        {
+            "text": "@RanaRxjat Ladki bhi konsi hai merepas\ud83d\ude17",
+            "classification": 0,
+            "positive_likelihood": 0.5546702830070549,
+            "negative_likelihood": 0.44532971699294743
+        },
+        {
+            "text": "@sayianwalaa Just @ me",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@dinesh__bhanot @sparklyrye Cheema",
+            "classification": 0,
+            "positive_likelihood": 0.24996071319525554,
+            "negative_likelihood": 0.7500392868047433
+        },
+        {
+            "text": "@sparklyrye  https://t.co/CEoW16cqpn",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@sparklyrye  https://t.co/XRqf8GWGsm",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@igotnochillbroo Mommy you drunk?",
+            "classification": 0,
+            "positive_likelihood": 0.005221369957240364,
+            "negative_likelihood": 0.9947786300427605
+        },
+        {
+            "text": "@RanaRxjat Soon sir",
+            "classification": 0,
+            "positive_likelihood": 0.018927875003079846,
+            "negative_likelihood": 0.9810721249969191
+        },
+        {
+            "text": "@mehknfox You ain\u2019t one from whom I need help\ud83d\ude29",
+            "classification": 1,
+            "positive_likelihood": 0.9960526175103762,
+            "negative_likelihood": 0.003947382489623973
+        },
+        {
+            "text": "@sparklyrye  https://t.co/IojYvqNJqS",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@notsosukhii Why all cakes are Korean",
+            "classification": 0,
+            "positive_likelihood": 0.0003056746744639648,
+            "negative_likelihood": 0.9996943253255373
+        },
+        {
+            "text": "Mood  https://t.co/RJdFMYFLLr",
+            "classification": 0,
+            "positive_likelihood": 0.0358619298072456,
+            "negative_likelihood": 0.9641380701927551
+        },
+        {
+            "text": "@notsosukhii  https://t.co/uqXf96EYjT",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@notsosukhii Yee  https://t.co/BdJNRjuRsU",
+            "classification": 0,
+            "positive_likelihood": 0.010093537390585154,
+            "negative_likelihood": 0.989906462609414
+        },
+        {
+            "text": "@mehknfox Why\ud83d\ude29",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@anonymous_059 @TheBucksEthan Relax dude at this point I can\u2019t stop em \ud83d\ude39",
+            "classification": 1,
+            "positive_likelihood": 0.9995675680222792,
+            "negative_likelihood": 0.00043243197772088553
+        },
+        {
+            "text": "@RanaRxjat Didn\u2019t you deacti?",
+            "classification": 0,
+            "positive_likelihood": 0.8865080457202398,
+            "negative_likelihood": 0.11349195427975964
+        },
+        {
+            "text": "@igottaberude Nah single life isn\u2019t fun anymore \ud83d\ude1e",
+            "classification": 1,
+            "positive_likelihood": 0.9999999932829028,
+            "negative_likelihood": 6.717099404104596e-09
+        },
+        {
+            "text": "@SenseiHunchoo In",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "What part of \u201c I need to save money \u201c do I not fucking understand \ud83d\ude2d",
+            "classification": 1,
+            "positive_likelihood": 0.9999999999548318,
+            "negative_likelihood": 4.516548360750023e-11
+        },
+        {
+            "text": "@badsoorattt Same Bhenchod",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "Parents always think that you follow your friends, like first of all everytime its my idea they always follow \ud83d\ude2d",
+            "classification": 1,
+            "positive_likelihood": 0.9999999988765043,
+            "negative_likelihood": 1.1234932585781852e-09
+        },
+        {
+            "text": "@stfupwendsss Lmao\ud83d\ude39",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@bholakaka @Simran__Brar Nahi veere galat information tuhanu\ud83d\ude08",
+            "classification": 1,
+            "positive_likelihood": 0.973970796751466,
+            "negative_likelihood": 0.02602920324853525
+        },
+        {
+            "text": "@JattSemion Unfollowed",
+            "classification": 0,
+            "positive_likelihood": 0.008618899027326552,
+            "negative_likelihood": 0.9913811009726733
+        },
+        {
+            "text": "@wthjimmy @sadboihoursonly @akrumxx This gon get numbers soon,follow me if you fe my tweets ifb and dm me for cheap promos\ud83d\udcaf\u2764\ufe0f",
+            "classification": 0,
+            "positive_likelihood": 0.5037246393997756,
+            "negative_likelihood": 0.49627536060022576
+        },
+        {
+            "text": "Do you ever hear a recording of yourself and be like ,damn bro you really should shut the fuck up forever\ud83d\ude2d\ud83d\ude02",
+            "classification": 1,
+            "positive_likelihood": 0.9999993662643358,
+            "negative_likelihood": 6.337356603905829e-07
+        },
+        {
+            "text": "@jagbir23 @manwinder98 Chalo koini",
+            "classification": 0,
+            "positive_likelihood": 0.09998114292639027,
+            "negative_likelihood": 0.90001885707361
+        },
+        {
+            "text": "@Jskrnx  https://t.co/C0Tmn3vTJr",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Paravgotnochill  https://t.co/mQQttvsCey",
+            "classification": 0,
+            "positive_likelihood": 0.004452647235886639,
+            "negative_likelihood": 0.9955473527641129
+        },
+        {
+            "text": "@Yours_Sima Yee",
+            "classification": 0,
+            "positive_likelihood": 0.0070407884262413895,
+            "negative_likelihood": 0.9929592115737585
+        },
+        {
+            "text": "@mqsvn then We are twins",
+            "classification": 0,
+            "positive_likelihood": 0.01199751594063758,
+            "negative_likelihood": 0.9880024840593622
+        },
+        {
+            "text": "@jagbir23 @TheSkullGuy @RanaRxjat \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "classification": 0,
+            "positive_likelihood": 0.0031006185593888676,
+            "negative_likelihood": 0.9968993814406111
+        },
+        {
+            "text": "@RanaRxjat Crying brb",
+            "classification": 0,
+            "positive_likelihood": 0.06877343474952102,
+            "negative_likelihood": 0.9312265652504784
+        },
+        {
+            "text": "Not to be dramatic but the sun setting at 5:00pm everyday has ruined my life",
+            "classification": 1,
+            "positive_likelihood": 0.9999906882881022,
+            "negative_likelihood": 9.311711894281656e-06
+        },
+        {
+            "text": "@maisexynaagin @_xobritxo_ @daddydivss @Praxshh Ladies first",
+            "classification": 0,
+            "positive_likelihood": 0.007901484111245362,
+            "negative_likelihood": 0.9920985158887541
+        },
+        {
+            "text": "@igotnochillbroo @yoheeer Nope normal talkin chat\ud83d\ude2d",
+            "classification": 0,
+            "positive_likelihood": 0.049321206868213265,
+            "negative_likelihood": 0.9506787931317868
+        },
+        {
+            "text": "@igotnochillbroo @yoheeer Yeeeeeee",
+            "classification": 0,
+            "positive_likelihood": 0.08331732815699357,
+            "negative_likelihood": 0.9166826718430066
+        }
+    ],
+    "depressed": false,
+    "switchpoint": 0.8,
+    "classification_switchpoint": 0.96
+}

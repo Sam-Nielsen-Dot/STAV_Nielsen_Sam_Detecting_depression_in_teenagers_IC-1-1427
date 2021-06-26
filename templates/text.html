@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{%block header%}
+
+{%endblock%}
+
+{% block content %}
+
+
+
+
+<h4 class="card-subtitle mb-2 text-muted" style="text-align:left;">Depressive likelihood</h4>
+<hr>
+<p><b>Text:</b> {{text}}</p>
+
+<p><b>Positive likelihood:</b> {{positive_likelihood}}</p>
+
+<p><b>Negative likelihood:</b> {{negative_likelihood}}</p>
+
+<p><b>Depressed:</b> {{depressed}}</p>
+<hr>
+
+<a href="{{url_for('index')}}">Home</a>
+
+{%endblock content%}

@@ -1,0 +1,12 @@
+model_id,96
+username,xxmood_ig
+total_posts,57
+total_positive,48
+total_negative,9
+percent_positive,0.8421052631578947
+percent_negative,0.15789473684210525
+average_positive_likelihood,0.9784401793745886
+average_negative_likelihood,0.021559820625411223
+depressed,True
+switchpoint,0.8
+classification_switchpoint,0.96
